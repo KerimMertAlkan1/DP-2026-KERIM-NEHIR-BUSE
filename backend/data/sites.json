@@ -1,0 +1,20 @@
+{
+  "1": {
+    "site_id": 1,
+    "domain": "youtube.com",
+    "site_name": "Youtube",
+    "created_date": "2026-03-30T23:21:31.453572",
+    "last_scanned_date": "2026-03-30T23:21:52.768318",
+    "risk_score": 20,
+    "status": "Active"
+  },
+  "2": {
+    "site_id": 2,
+    "domain": "flypgs.com",
+    "site_name": "Flypgs",
+    "created_date": "2026-03-30T23:23:53.007290",
+    "last_scanned_date": "2026-03-30T23:26:48.598212",
+    "risk_score": 20,
+    "status": "Active"
+  }
+}

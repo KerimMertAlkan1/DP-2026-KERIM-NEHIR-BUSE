@@ -1,0 +1,92 @@
+[
+  {
+    "history_id": 1,
+    "site_id": 1,
+    "source": "sikayetvar",
+    "status": "Failed",
+    "records_found": 0,
+    "error_message": null,
+    "scraped_date": "2026-03-30T23:21:52.769732",
+    "duration": 0
+  },
+  {
+    "history_id": 2,
+    "site_id": 1,
+    "source": "trustpilot",
+    "status": "Success",
+    "records_found": 20,
+    "error_message": null,
+    "scraped_date": "2026-03-30T23:21:52.783373",
+    "duration": 0
+  },
+  {
+    "history_id": 3,
+    "site_id": 1,
+    "source": "google_reviews",
+    "status": "Failed",
+    "records_found": 0,
+    "error_message": null,
+    "scraped_date": "2026-03-30T23:21:52.793536",
+    "duration": 0
+  },
+  {
+    "history_id": 4,
+    "site_id": 2,
+    "source": "sikayetvar",
+    "status": "Failed",
+    "records_found": 0,
+    "error_message": null,
+    "scraped_date": "2026-03-30T23:24:37.767714",
+    "duration": 0
+  },
+  {
+    "history_id": 5,
+    "site_id": 2,
+    "source": "trustpilot",
+    "status": "Success",
+    "records_found": 20,
+    "error_message": null,
+    "scraped_date": "2026-03-30T23:24:37.780132",
+    "duration": 0
+  },
+  {
+    "history_id": 6,
+    "site_id": 2,
+    "source": "google_reviews",
+    "status": "Failed",
+    "records_found": 0,
+    "error_message": null,
+    "scraped_date": "2026-03-30T23:24:37.796144",
+    "duration": 0
+  },
+  {
+    "history_id": 7,
+    "site_id": 2,
+    "source": "sikayetvar",
+    "status": "Failed",
+    "records_found": 0,
+    "error_message": null,
+    "scraped_date": "2026-03-30T23:26:48.615748",
+    "duration": 0
+  },
+  {
+    "history_id": 8,
+    "site_id": 2,
+    "source": "trustpilot",
+    "status": "Success",
+    "records_found": 20,
+    "error_message": null,
+    "scraped_date": "2026-03-30T23:26:48.633375",
+    "duration": 0
+  },
+  {
+    "history_id": 9,
+    "site_id": 2,
+    "source": "google_reviews",
+    "status": "Failed",
+    "records_found": 0,
+    "error_message": null,
+    "scraped_date": "2026-03-30T23:26:48.651062",
+    "duration": 0
+  }
+]

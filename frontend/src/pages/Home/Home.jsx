@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import { useNavigate, Link } from 'react-router-dom'
 import SearchBar from '../../components/SearchBar/SearchBar'
 import { apiService } from '../../services/api'
@@ -7,21 +7,7 @@ import './Home.css'
 const Home = () => {
   const [isAnalyzing, setIsAnalyzing] = useState(false)
   const [error, setError] = useState('')
-  const [dbStatus, setDbStatus] = useState(null)
   const navigate = useNavigate()
-
-  useEffect(() => {
-    checkDbStatus()
-  }, [])
-
-  const checkDbStatus = async () => {
-    try {
-      const status = await apiService.checkDbStatus()
-      setDbStatus(status)
-    } catch (err) {
-      setDbStatus({ connected: false, message: err.message })
-    }
-  }
 
   const handleSearch = async (url) => {
     setIsAnalyzing(true)
@@ -279,21 +265,6 @@ const Home = () => {
             </div>
           </div>
         </section>
-
-        {/* DB Warning */}
-        {dbStatus && !dbStatus.connected && (
-          <div className="db-warning-new fade-in">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-              <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/>
-              <line x1="12" y1="9" x2="12" y2="13"/>
-              <line x1="12" y1="17" x2="12.01" y2="17"/>
-            </svg>
-            <div>
-              <strong>Veritabanı Bağlantı Uyarısı</strong>
-              <p>{dbStatus.message}</p>
-            </div>
-          </div>
-        )}
       </div>
     </div>
   )

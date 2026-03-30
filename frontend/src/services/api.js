@@ -54,12 +54,7 @@ export const apiService = {
     return response.data
   },
 
-  // Database status
-  checkDbStatus: async () => {
-    const response = await api.get('/api/db-status')
-    return response.data
-  },
-
+  
   // Analyze site
   analyzeSite: async (url) => {
     const response = await api.post('/api/analyze', { url })
@@ -75,12 +70,6 @@ export const apiService = {
   // Get all sites
   getAllSites: async () => {
     const response = await api.get('/api/sites')
-    return response.data
-  },
-
-  // Initialize database
-  initDatabase: async () => {
-    const response = await api.post('/api/init-db')
     return response.data
   }
 }
