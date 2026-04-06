@@ -66,8 +66,8 @@ class SikayetvarScraper(BaseScraper):
                         found_results = True
 
                         for article in articles:
-                            h2 = article.find("h2", class_="complaint-title")
-                            a = h2.find("a") if h2 else None
+                            h3 = article.find("h3", class_="complaint-title")
+                            a = h3.find("a") if h3 else None
                             title = a.get_text(strip=True) if a else ""
                             if not title:
                                 continue
@@ -85,13 +85,13 @@ class SikayetvarScraper(BaseScraper):
                                 if p:
                                     desc = p.get_text(strip=True)
 
-                            author_elem = article.find("a", class_=re.compile(r"user|author|writer"))
+                            author_elem = article.find("span", class_="username")
                             author = author_elem.get_text(strip=True) if author_elem else "Şikayetvar Kullanıcısı"
 
-                            date_elem = article.find("time") or article.find("span", class_=re.compile(r"date|time"))
+                            date_elem = article.find("div", class_="js-tooltip time")
                             date_str = None
                             if date_elem:
-                                date_str = date_elem.get("datetime") or date_elem.get("title") or date_elem.get_text(strip=True)
+                                date_str = date_elem.get("title") or date_elem.get_text(strip=True)
 
                             url_link = base_url
                             if a and a.get("href"):

@@ -7,6 +7,7 @@ import requests
 from typing import List, Dict
 from datetime import datetime
 from urllib.parse import quote_plus
+from utils.translator import translator
 
 logger = logging.getLogger(__name__)
 
@@ -81,22 +82,26 @@ class TrustpilotScraper(BaseScraper):
                         
                         for review in reviews[:20]:  # İlk 20 yorum
                             try:
-                                # Yorum metni
-                                content_elem = review.find("p", class_=re.compile(r"review|text|body", re.I))
-                                if not content_elem:
-                                    content_elem = review.find("div", class_=re.compile(r"review-text|content", re.I))
+                                # Extract content with better handling for multiline content
+                                content_div = review.find("div", class_=re.compile(r"review-text", re.I))
+                                if content_div:
+                                    content = content_div.get_text(strip=True).strip()
+                                else:
+                                    # Fallback: try to get content from any div
+                                    all_divs = review.find_all("div")
+                                    content = ""
+                                    for div in all_divs:
+                                        div_text = div.get_text(strip=True)
+                                        if div_text and len(div_text) > len(content):
+                                            content = div_text
+                                    content = content.strip()
                                 
-                                if not content_elem:
-                                    # Tüm paragrafları al
-                                    paragraphs = review.find_all("p")
-                                    if paragraphs:
-                                        content_elem = paragraphs[0]
+                                # Clean up content - remove extra whitespace and join broken lines
+                                content = ' '.join(content.split())
                                 
-                                content = ""
-                                if content_elem:
-                                    content = content_elem.get_text(strip=True)
-                                
-                                if not content or len(content) < 10:
+                                # Skip if content is too short or empty
+                                if len(content) < 10:
+                                    logger.debug(f"İçerik çok kısa atlandı: {content[:50]}")
                                     continue
                                 
                                 # Başlık
@@ -168,6 +173,30 @@ class TrustpilotScraper(BaseScraper):
                                         sentiment = 'negative'
                                 
                                 parsed_date = self.parse_date(date_str) if date_str else None
+                                
+                                # Çeviri işlemi - sadece İngilizce metinleri çevir
+                                title_needs_translation = not translator.is_turkish(title)
+                                content_needs_translation = not translator.is_turkish(content)
+                                
+                                if title_needs_translation or content_needs_translation:
+                                    try:
+                                        logger.info(f"Çeviri başlatılıyor - Başlık: {title_needs_translation}, İçerik: {content_needs_translation}")
+                                        translated_title, translated_content = translator.translate_complaint(title, content)
+                                        
+                                        # Başarılı çeviri ise değiştir
+                                        if translated_title and translated_title != title and title_needs_translation:
+                                            old_title = title[:30]
+                                            title = translated_title
+                                            logger.info(f"Başlık çevrildi: {old_title}... -> {title[:30]}...")
+                                            
+                                        if translated_content and translated_content != content and content_needs_translation:
+                                            old_content = content[:30]
+                                            content = translated_content
+                                            logger.info(f"İçerik çevrildi: {old_content}... -> {content[:30]}...")
+                                            
+                                    except Exception as e:
+                                        logger.error(f"Çeviri hatası (devam ediliyor): {str(e)}")
+                                        # Çeviri başarısız olursa orijinal metni kullan, işlemeye devam et
                                 
                                 # Çözülmüş durumu (Trustpilot'ta şirket yanıtı varsa çözülmüş sayılabilir)
                                 is_resolved = False

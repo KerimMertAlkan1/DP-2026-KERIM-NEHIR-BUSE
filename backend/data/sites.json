@@ -1,20 +1,29 @@
 {
   "1": {
     "site_id": 1,
-    "domain": "youtube.com",
-    "site_name": "Youtube",
-    "created_date": "2026-03-30T23:21:31.453572",
-    "last_scanned_date": "2026-03-30T23:21:52.768318",
-    "risk_score": 20,
+    "domain": "amazon.com.tr",
+    "site_name": "Amazon",
+    "created_date": "2026-04-06T23:34:32.454810",
+    "last_scanned_date": "2026-04-06T23:35:43.187613",
+    "risk_score": 40,
     "status": "Active"
   },
   "2": {
     "site_id": 2,
-    "domain": "flypgs.com",
-    "site_name": "Flypgs",
-    "created_date": "2026-03-30T23:23:53.007290",
-    "last_scanned_date": "2026-03-30T23:26:48.598212",
-    "risk_score": 20,
+    "domain": "bauhaus.com.tr",
+    "site_name": "Bauhaus",
+    "created_date": "2026-04-06T23:39:40.099433",
+    "last_scanned_date": "2026-04-06T23:40:07.563818",
+    "risk_score": 33,
+    "status": "Active"
+  },
+  "3": {
+    "site_id": 3,
+    "domain": "ikea.com.tr",
+    "site_name": "Ikea",
+    "created_date": "2026-04-06T23:51:19.713694",
+    "last_scanned_date": "2026-04-06T23:52:27.279627",
+    "risk_score": 39,
     "status": "Active"
   }
 }

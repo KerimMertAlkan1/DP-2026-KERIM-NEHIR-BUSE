@@ -3,10 +3,10 @@
     "history_id": 1,
     "site_id": 1,
     "source": "sikayetvar",
-    "status": "Failed",
-    "records_found": 0,
+    "status": "Success",
+    "records_found": 119,
     "error_message": null,
-    "scraped_date": "2026-03-30T23:21:52.769732",
+    "scraped_date": "2026-04-06T23:34:44.933123",
     "duration": 0
   },
   {
@@ -16,7 +16,7 @@
     "status": "Success",
     "records_found": 20,
     "error_message": null,
-    "scraped_date": "2026-03-30T23:21:52.783373",
+    "scraped_date": "2026-04-06T23:34:44.942414",
     "duration": 0
   },
   {
@@ -26,47 +26,47 @@
     "status": "Failed",
     "records_found": 0,
     "error_message": null,
-    "scraped_date": "2026-03-30T23:21:52.793536",
+    "scraped_date": "2026-04-06T23:34:44.951110",
     "duration": 0
   },
   {
     "history_id": 4,
-    "site_id": 2,
+    "site_id": 1,
     "source": "sikayetvar",
-    "status": "Failed",
-    "records_found": 0,
+    "status": "Success",
+    "records_found": 119,
     "error_message": null,
-    "scraped_date": "2026-03-30T23:24:37.767714",
+    "scraped_date": "2026-04-06T23:35:43.188092",
     "duration": 0
   },
   {
     "history_id": 5,
-    "site_id": 2,
+    "site_id": 1,
     "source": "trustpilot",
     "status": "Success",
     "records_found": 20,
     "error_message": null,
-    "scraped_date": "2026-03-30T23:24:37.780132",
+    "scraped_date": "2026-04-06T23:35:43.195629",
     "duration": 0
   },
   {
     "history_id": 6,
-    "site_id": 2,
+    "site_id": 1,
     "source": "google_reviews",
     "status": "Failed",
     "records_found": 0,
     "error_message": null,
-    "scraped_date": "2026-03-30T23:24:37.796144",
+    "scraped_date": "2026-04-06T23:35:43.204597",
     "duration": 0
   },
   {
     "history_id": 7,
     "site_id": 2,
     "source": "sikayetvar",
-    "status": "Failed",
-    "records_found": 0,
+    "status": "Success",
+    "records_found": 118,
     "error_message": null,
-    "scraped_date": "2026-03-30T23:26:48.615748",
+    "scraped_date": "2026-04-06T23:40:07.564711",
     "duration": 0
   },
   {
@@ -74,9 +74,9 @@
     "site_id": 2,
     "source": "trustpilot",
     "status": "Success",
-    "records_found": 20,
+    "records_found": 1,
     "error_message": null,
-    "scraped_date": "2026-03-30T23:26:48.633375",
+    "scraped_date": "2026-04-06T23:40:07.574273",
     "duration": 0
   },
   {
@@ -86,7 +86,37 @@
     "status": "Failed",
     "records_found": 0,
     "error_message": null,
-    "scraped_date": "2026-03-30T23:26:48.651062",
+    "scraped_date": "2026-04-06T23:40:07.583627",
+    "duration": 0
+  },
+  {
+    "history_id": 10,
+    "site_id": 3,
+    "source": "sikayetvar",
+    "status": "Success",
+    "records_found": 119,
+    "error_message": null,
+    "scraped_date": "2026-04-06T23:52:27.280201",
+    "duration": 0
+  },
+  {
+    "history_id": 11,
+    "site_id": 3,
+    "source": "trustpilot",
+    "status": "Success",
+    "records_found": 12,
+    "error_message": null,
+    "scraped_date": "2026-04-06T23:52:27.288383",
+    "duration": 0
+  },
+  {
+    "history_id": 12,
+    "site_id": 3,
+    "source": "google_reviews",
+    "status": "Failed",
+    "records_found": 0,
+    "error_message": null,
+    "scraped_date": "2026-04-06T23:52:27.298604",
     "duration": 0
   }
 ]

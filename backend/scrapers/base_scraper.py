@@ -139,6 +139,33 @@ class BaseScraper:
         if not date_str:
             return None
         try:
+            # Turkish month names mapping
+            turkish_months = {
+                'Ocak': '01', 'Şubat': '02', 'Mart': '03', 'Nisan': '04',
+                'Mayıs': '05', 'Haziran': '06', 'Temmuz': '07', 'Ağustos': '08',
+                'Eylül': '09', 'Ekim': '10', 'Kasım': '11', 'Aralık': '12'
+            }
+            
+            # Handle Turkish format: "06 Nisan 22:59"
+            if ' ' in date_str and ':' in date_str:
+                parts = date_str.split(' ')
+                if len(parts) == 2 and parts[0].isdigit() and parts[1] in turkish_months:
+                    # Only day and month, no year - use current year
+                    day = parts[0]
+                    month = turkish_months[parts[1]]
+                    year = datetime.now().year
+                    return datetime.strptime(f"{year}-{month}-{day}", '%Y-%m-%d')
+                elif len(parts) == 3:
+                    # Day month year format
+                    day = parts[0]
+                    month_name = parts[1]
+                    time_part = parts[2]
+                    if month_name in turkish_months:
+                        month = turkish_months[month_name]
+                        year = datetime.now().year
+                        return datetime.strptime(f"{year}-{month}-{day} {time_part}", '%Y-%m-%d %H:%M')
+            
+            # Standard formats
             for fmt in ['%Y-%m-%d', '%Y-%m-%d %H:%M:%S', '%Y-%m-%dT%H:%M:%S', '%d.%m.%Y', '%d/%m/%Y']:
                 try:
                     return datetime.strptime(date_str, fmt)
