@@ -5,6 +5,8 @@ import Footer from './components/Footer/Footer'
 import Home from './pages/Home/Home'
 import Sites from './pages/Sites/Sites'
 import SiteDetail from './pages/SiteDetail/SiteDetail'
+import About from './pages/About/About'
+import Stats from './pages/Stats/Stats'
 import './App.css'
 
 function App() {
@@ -17,6 +19,8 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/sites" element={<Sites />} />
             <Route path="/site/:domain" element={<SiteDetail />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/stats" element={<Stats />} />
           </Routes>
         </main>
         <Footer />
@@ -26,4 +30,3 @@ function App() {
 }
 
 export default App
-

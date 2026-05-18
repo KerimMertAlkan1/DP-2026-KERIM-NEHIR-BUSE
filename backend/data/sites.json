@@ -22,8 +22,26 @@
     "domain": "ikea.com.tr",
     "site_name": "Ikea",
     "created_date": "2026-04-06T23:51:19.713694",
-    "last_scanned_date": "2026-04-06T23:52:27.279627",
+    "last_scanned_date": "2026-05-18T04:20:57.824408",
     "risk_score": 39,
+    "status": "Active"
+  },
+  "4": {
+    "site_id": 4,
+    "domain": "youtube.com",
+    "site_name": "Youtube",
+    "created_date": "2026-05-18T04:08:29.586086",
+    "last_scanned_date": "2026-05-18T04:11:36.542936",
+    "risk_score": 51,
+    "status": "Active"
+  },
+  "5": {
+    "site_id": 5,
+    "domain": "faceit.com",
+    "site_name": "Faceit",
+    "created_date": "2026-05-18T04:23:29.763864",
+    "last_scanned_date": "2026-05-18T04:23:57.487815",
+    "risk_score": 49,
     "status": "Active"
   }
 }

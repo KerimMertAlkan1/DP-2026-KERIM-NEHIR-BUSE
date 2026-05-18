@@ -219,13 +219,35 @@ class Database:
     def get_all_sites(self) -> List[Dict]:
         """Tüm siteleri listele"""
         sites = self._read_json(self.sites_file)
+        complaints = self._read_json(self.complaints_file)
         
-        return [
-            {
+        result = []
+        for site_id, site_info in sites.items():
+            site_complaints = [
+                c for c in complaints 
+                if c.get('site_id') == int(site_id)
+            ]
+            
+            resolved_count = sum(1 for c in site_complaints if c.get('is_resolved', False))
+            unresolved_count = len(site_complaints) - resolved_count
+            negative_count = sum(1 for c in site_complaints if c.get('sentiment') == 'negative')
+            positive_count = sum(1 for c in site_complaints if c.get('sentiment') == 'positive')
+            
+            statistics = {
+                'total': len(site_complaints),
+                'negative': negative_count,
+                'positive': positive_count,
+                'neutral': len(site_complaints) - negative_count - positive_count,
+                'resolved': resolved_count,
+                'unresolved': unresolved_count
+            }
+            
+            result.append({
                 'domain': site_info.get('domain'),
                 'site_name': site_info.get('site_name'),
                 'risk_score': site_info.get('risk_score', 0),
-                'last_scanned_date': site_info.get('last_scanned_date')
-            }
-            for site_info in sites.values()
-        ]
+                'last_scanned_date': site_info.get('last_scanned_date'),
+                'statistics': statistics
+            })
+            
+        return result

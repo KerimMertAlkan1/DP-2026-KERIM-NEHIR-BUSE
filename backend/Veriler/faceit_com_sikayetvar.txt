@@ -1,0 +1,949 @@
+Sikayetvar Verileri - faceit.com (Faceit)
+Toplam 105 veri
+============================================================
+
+[1] Sunucu Çökmesi Nedeniyle Ücretli Faceit Plus Üyeliğinde Aldığım Haksız Banlar
+Yazar: Mert
+Tarih: 2026-05-03 02:43:00
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/sunucu-cokmesi-nedeniyle-ucretli-faceit-plus-uyeliginde-aldigim-haksiz-banlar
+Rating: None
+İçerik: CS2’de daha adil bir oyun ortamı sağlamak için ücret ödeyerek Faceit üzerinden oynamayı tercih ettim ve şu anda Faceit Plus aboneliği kullanıyorum. Her ay düzenli olarak ödememi yapmama rağmen sistemin işleyişiyle ilgili ciddi bir problem yaşıyorum. Yaklaşık her 4–5 maçta bir, içinde bulunduğumuz oy...
+------------------------------------------------------------
+
+[2] Faceit Steam Prime Durumunu Görmüyor Ve Bağlantıya İzin Vermiyor
+Yazar: Saas
+Tarih: 2026-04-29 23:48:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-steam-prime-durumunu-gormuyor-ve-baglantiya-izin-vermiyor
+Rating: None
+İçerik: Yaklaşık iki yıl önce cs2 oynamak için Faceit hesabı açmıştım. Bugün tekrar oynamak istediğimde, Steam hesabımda cs2’de seçkin (Prime) olmama rağmen Faceit, Steam hesabımın cs2 seçkin durumuna sahip olmadığını söyleyerek hesabımı bağlamama izin vermiyor. Steam hesabım ve giriş bilgilerim tamamen doğ...
+------------------------------------------------------------
+
+[3] Arkadaş Banı Nedeniyle Haksız 200 Elo Kaybı Ve Destek Yanıtsızlığı
+Yazar: Alihan
+Tarih: 2026-04-23 20:48:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/arkadas-bani-nedeniyle-haksiz-200-elo-kaybi-ve-destek-yanitsizligi
+Rating: None
+İçerik: Yaklaşık 2 gün önce Faceit üzerinden cs2 oynarken yaşadığım bir durum nedeniyle 200 elo kaybettim. Beraber oynadığım, Adana’da yaşayan B****** S***** adlı arkadaşımın hesabı banlandı ve bu banlanma sonrası hiçbir suçum ya da ihlalim olmamasına rağmen benim de elom düştü. Bu süreçte kendi hesabımda...
+------------------------------------------------------------
+
+[4] Faceit Smurf Banı Haksız, Açıklama Ve İtiraz
+Yazar: Gökhan
+Tarih: 2026-04-22 21:43:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-smurf-bani-haksiz-aciklama-ve-itiraz
+Rating: None
+İçerik: Uzun süredir cs2 için kullandığım Faceit hesabımda, hiçbir şekilde smurf olmadığım halde “smurf” gerekçesiyle 1 ay ban yediğimi 22.04.2026 tarihinde gördüm. Banın sistemde başlangıç saati 00.12 olarak görünüyor ve bitiş tarihi de 22.05.2026 olarak belirtilmiş. Faceit üzerindeki kullanıcı adım “gokko...
+------------------------------------------------------------
+
+[5] Faceit Platformunda Smurf Şüphesi Nedeniyle Elo Puanlarım Siliniyor
+Yazar: Uğur
+Tarih: 2026-04-08 13:22:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-platformunda-smurf-suphesi-nedeniyle-elo-puanlarim-siliniyor
+Rating: None
+İçerik: Faceit platformunda “Sherkeyz” kullanıcı adlı hesabımda, sistem tarafından smurf hesap muamelesi görüyorum ve bunun sonucunda kazandığım elo puanlarım düzenli olarak siliniyor. Bugün yine aynı durumu yaşadım, daha önce de defalarca kez emek vererek kazandığım puanlar sistem tarafından geri alındı....
+------------------------------------------------------------
+
+[6] Faceit Hesabım Doğrulanamıyor Ve Destek Yanıt Vermiyor
+Yazar: Tuna
+Tarih: 2026-03-21 17:08:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-hesabim-dogrulanamiyor-ve-destek-yanit-vermiyor
+Rating: None
+İçerik: Counter Strike 2 oynarken kullandığım Faceit hesabımı onaylamaya çalışıyorum ancak 2 gündür sürekli “yüz eşleştirme başarısız” hatası alıyorum. Bugün de kısa süre önce tekrar denememe rağmen aynı hata devam ediyor ve hesabımı bir türlü doğrulayamıyorum. Hesap kullanıcı adım Tuna5405’tir. Yaşadığım...
+------------------------------------------------------------
+
+[7] Faceit Hesabına Erişilemiyor Ve Destekten Yanıt Gelmedi
+Yazar: Çağrı
+Tarih: 2026-02-18 21:21:00
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-hesabina-erisilemiyor-ve-destekten-yanit-gelmedi
+Rating: None
+İçerik: Uzun süredir Faceit hesabıma erişim sağlayamıyorum. Hesabımda kayıtlı e‑posta adresinin şifresini unuttuğum için e‑postaya da giriş yapamıyorum ve bu nedenle Faceit hesabıma erişimim tamamen kesilmiş durumda. Yaklaşık 5–6 aydır bu sorun devam ediyor. Faceit destek ekibine bugün site içi destek form...
+------------------------------------------------------------
+
+[8] Kimliğinde Fotoğraf Olmadığı İçin Faceit Doğrulama Reddi Ve Destek Eksikliği
+Yazar: Burak
+Tarih: 2026-02-15 19:11:00
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/kimliginde-fotograf-olmadigi-icin-faceit-dogrulama-reddi-ve-destek-eksikligi
+Rating: None
+İçerik: Kuzenimle birlikte CS2’de seçkin alıp Faceit oynamak istedik; ancak kuzenimin hesabında kimlik doğrulama aşamasında sorun yaşıyoruz. Yüz tanıma kısmı sorunsuz tamamlanmasına rağmen kimlik doğrulama adımında sistem, kuzenimin kimliğinde fotoğraf olmadığı için kimliği okumuyor ve bu nedenle doğrulama...
+------------------------------------------------------------
+
+[9] Süresiz Ban Ve Smurf İddiası Haksız Şekilde Verildi
+Yazar: Ali
+Tarih: 2026-02-11 19:57:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/suresiz-ban-ve-smurf-iddiasi-haksiz-sekilde-verildi
+Rating: None
+İçerik: 09.02.2026 tarihinde Faceit hesabım “romeo457” süresiz olarak banlandı. Ban gerekçesi olarak sistemde “smurf” ifadesi yer alıyor ancak ortada smurf kullanımı veya çoklu hesap ihlali olmadığını özellikle belirtmek istiyorum. Kendi hesabıma arkadaşımın bilgisayarından giriş yapıp sadece 5 maç oynadım,...
+------------------------------------------------------------
+
+[10] Faceıt Yanlış Oyun Hesabı Banı Ve Eski Hesap Silme Talebi
+Yazar: Ali
+Tarih: 2026-02-10 21:18:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-yanlis-oyun-hesabi-bani-ve-eski-hesap-silme-talebi
+Rating: None
+İçerik: Faceit üzerinden Counter Strike 2 oynadığım r*** adlı hesabıma, 09.02.2026 tarihinden beri “smurfing” gerekçesiyle ban uygulanmış durumda. Ancak bu banın haksız olduğunu düşünüyorum. Sistemde iki hesabım görünüyor olsa da, diğer hesabım yaklaşık 1 senedir aktif değil ve geçmişte kardeşimin oynayabil...
+------------------------------------------------------------
+
+[11] Faceıt Facebook Hesabım Erişilemiyor, E‑posta Güncellemesi İçin Manuel İnceleme Talebi
+Yazar: Barış
+Tarih: 2026-02-06 22:01:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-facebook-hesabim-erisilemiyor-eposta-guncellemesi-icin-manuel-inceleme-talebi
+Rating: None
+İçerik: Faceıt hesabıma 05.02.2026 tarihinden beri erişemiyorum. Hesabıma bağlı olan e‑posta adresine artık erişimim yok ve bu yüzden ne o e‑posta adresini ne de şifresini hatırlayamıyorum. Bilgisayarımı formatladıktan sonra bu e‑posta hesabını kaybettim ve şu anda tamamen kullanamıyorum. Faceıt’e Steam üz...
+------------------------------------------------------------
+
+[12] Faceit Hesabına Giriş Kodu Gelmemesi Ve Destek Yanıtı Yok
+Yazar: Kadir
+Tarih: 2026-02-02 17:04:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-hesabina-giris-kodu-gelmemesi-ve-destek-yaniti-yok
+Rating: None
+İçerik: Yaklaşık 2–3 gündür Faceit hesabıma giriş yapmaya çalışıyorum ancak kayıtlı e‑posta adresime hiçbir şekilde giriş kodu gelmiyor. Bu nedenle hesabımı kullanamıyor ve ücretini ödediğim hizmetlerden yararlanamıyorum. Hesabımın ismi Wham_X. Defalarca giriş kodu talep etmeme rağmen e‑postama herhangi bi...
+------------------------------------------------------------
+
+[13] Haksız Ban Ve Makro Yazılımı Nedeniyle İnceleme Talebi
+Yazar: Mert
+Tarih: 2026-01-21 18:14:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/haksiz-ban-ve-makro-yazilimi-nedeniyle-inceleme-talebi
+Rating: None
+İçerik: Faceit üzerinden Counter-Strike 2 oynarken tmfenj kullanıcı adlı hesabımla 19 Şubat 2025 tarihinde haksız yere ban aldığımı düşünüyorum. Bilgisayarımı aynı zamanda kardeşim de kullanıyor ve PUBG: Battlegrounds için Makro tarzı bir yazılım indirmiş. Ben Faceit’te maça girdiğim sırada bilgisayarda bu...
+------------------------------------------------------------
+
+[14] Faceit Yüz Doğrulama Sorunu: Sürekli Algılanmadı
+Yazar: Kaan
+Tarih: 2026-01-02 00:13:00
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-yuz-dogrulama-sorunu-surekli-algilanmadi
+Rating: None
+İçerik: Faceit hesabımda bugün yaklaşık 22.50 sularında yüz doğrulama yapmaya çalışırken sistem sürekli olarak “yüz algılanmadı” hatası veriyor. Tüm adımları doğru uygulamama rağmen defalarca denememe karşın yüzümü bir türlü algılamıyor. Şu ana kadar en az 11 kez farklı ışık koşullarında, farklı açılarda v...
+------------------------------------------------------------
+
+[15] Faceit Hesabına Erişemiyorum Ve Destek İletişimi Kurulamıyor
+Yazar: Veli
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-hesabina-erisemiyorum-ve-destek-iletisimi-kurulamiyor
+Rating: None
+İçerik: Cs2 oynarken kullandığım Faceit hesabıma bugün itibarıyla erişemiyorum. Hesabımı açarken kullandığım e-posta adresini unuttuğum için giriş yapamıyorum...
+------------------------------------------------------------
+
+[16] Haksız Smurf Banı Nedeniyle Hesabım Kapatıldı
+Yazar: Berkay
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/haksiz-smurf-bani-nedeniyle-hesabim-kapatildi
+Rating: None
+İçerik: 10 Kasım 2025 tarihinde saat 22:00 civarında SM4SHH60 kullanıcı adlı Faceit hesabım, 'smurf' gerekçesiyle 1 ay süreyle banlandı. Ancak bu ban kararının haksız olduğunu düşünüyorum. Ban gerekçesi olarak smurf belirtilmiş olsa da, diğer hesabım da Faceit 4. seviyede ve ana hesabım da 4-5 seviye arasın...
+------------------------------------------------------------
+
+[17] Faceit Avrupa Sunucularında Troll Ve Toxic Oyunculara Karşı Çözüm Bekliyorum!
+Yazar: Özkan
+Tarih: None
+Sentiment: positive
+URL: https://www.sikayetvar.com/faceit/faceit-avrupa-sunucularinda-troll-ve-toxic-oyunculara-karsi-cozum-bekliyorum
+Rating: None
+İçerik: Uzun süredir cs 2 oyununda Faceit platformunda Avrupa sunucularında oynuyorum ve aylardır oyun bozan, troll ve toksik oyuncularla karşılaşıyorum. Bu kişiler oyun deneyimimi ciddi şekilde olumsuz etkiliyor ve adil olmayan bir şekilde maç kaybetmeme neden oluyorlar. Yaşadığım bu durumlarda ilgili oyun...
+------------------------------------------------------------
+
+[18] E-posta Değişikliği Sırasında 403 Hatası Ve Destek Talebi Oluşturamama Sorunu
+Yazar: Kuzey
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/e-posta-degisikligi-sirasinda-403-hatasi-ve-destek-talebi-olusturamama-sorunu
+Rating: None
+İçerik: Faceit hesabımda e-posta adresimi değiştirmek ve Faceit Support’taki e-postamla aynı şekilde onaylı hale getirmek istiyorum. Ancak 5-6 Eylül 2025’ten...
+------------------------------------------------------------
+
+[19] Faceıt Seçkin Hesap Satın Aldım, Yine De Oyun Erişimi Sağlanmıyor
+Yazar: Snanae
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-seckin-hesap-satin-aldim-yine-de-oyun-erisimi-saglanmiyor
+Rating: None
+İçerik: Faceit platformunda bugün “t***” kullanıcı adlı hesabımla yeni bir hesap açtım ve 14,99 dolar ödeyerek seçkin hesap satın aldım. Ancak, cs2 oynamak için seçkin hesabım olmasına rağmen sistem sürekli olarak “Hesabınızı seçkin hesaba yükseltin” şeklinde hata veriyor ve Steam bağlantısı gerçekleşmiyor....
+------------------------------------------------------------
+
+[20] Şifre Sıfırlama Maili Ulaşmıyor, Hesabıma Erişemiyorum
+Yazar: Tolunay
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/sifre-sifirlama-maili-ulasmiyor-hesabima-erisemiyorum
+Rating: None
+İçerik: Faceit hesabıma yaklaşık 10 gündür erişim sağlayamıyorum. Şifremi unuttuğum için şifre sıfırlama talebinde bulundum ancak bugüne kadar yaklaşık 20 kez denememe rağmen z. De****@gmail.com adresime hiçbir şekilde şifre sıfırlama maili ulaşmadı. İşlem sırasında herhangi bir hata mesajı da almıyorum, si...
+------------------------------------------------------------
+
+[21] E-posta Adresime Erişimim Yok, Faceit Destek Ekibinden Yanıt Alamıyorum
+Yazar: Ferhat
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/e-posta-adresime-erisimim-yok-faceit-destek-ekibinden-yanit-alamiyorum
+Rating: None
+İçerik: Faceit hesabıma bağlı olan f********@hotmail.com e-posta adresime artık erişimim yok. Hesabıma giriş yapabilmem için sistem sürekli bu e-posta adresine kod gönderiyor. E-posta adresimin artık ulaşılabilir olmadığını defalarca kez Faceit destek ekibine ilettim ve e-posta değişimi talebinde bulundum....
+------------------------------------------------------------
+
+[22] Kimlik Doğrulama Sorunu Ve Hatalı Çoklu Hesap Uyarısı
+Yazar: Mehmet
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/kimlik-dogrulama-sorunu-ve-hatali-coklu-hesap-uyarisi
+Rating: None
+İçerik: Kimlik doğrulama istiyor. Çoklu hesap algılandı diyor. Bilgisayarı sıfır aldım, ne alaka anlamıyorum. Selfie hiçbir şekilde kabul etmiyor. iOS ve Android'in hepsini denedim, olmuyor. Bu konuda sorunu çözen oldu mu? Bazıları iki hesap ile oynuyor, Faceit'te ben bir hesap bile açamıyorum.
+------------------------------------------------------------
+
+[23] Faceit Hesabım Haksız Yere Ghosting Suçlamasıyla Banlandı Mağduriyetim Giderilmiyor
+Yazar: Mert
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-hesabim-haksiz-yere-ghosting-suclamasiyla-banlandi-magduriyetim-giderilmiyor
+Rating: None
+İçerik: Faceit hesabım (https://www.faceit.com/tr/players/Black_maskk), 29.07.25 tarihinde “ghosting” gerekçesiyle haksız ve sebepsiz bir şekilde banlandı. Hiçbir şekilde “ghosting” yapmadım ve bu suçu işlediğime dair bana herhangi bir kanıt iletilmedi. Yasaklanmam, oyun sırasında toksik davranan bir takım...
+------------------------------------------------------------
+
+[24] Faceit Premium Kullanıcılarının Güncelleme Sonrası Giriş Sorunu
+Yazar: Anıl
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-premium-kullanicilarinin-guncelleme-sonrasi-giris-sorunu
+Rating: None
+İçerik: Steam CS2'ye güncelleme geleli 1 saat oldu. Faceit hâlâ girişleri kapalı. İki hesabım var ve ikisinde de Premium üyelik bulunuyor. İki saati geçti, Faceit girişlerinin açılmasını bekliyorum. Steam'e güncelleme geldikten sonra oyuna girişler açıldı, ancak sizde hâlâ kapalı. Kullanıcılar olarak güncel...
+------------------------------------------------------------
+
+[25] Faceit'te Canlı Destek Eksikliği Nedeniyle Haksız Ban Sorunu
+Yazar: Cemil
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceitte-canli-destek-eksikligi-nedeniyle-haksiz-ban-sorunu
+Rating: None
+İçerik: Faceit'te neden canlı destek yok? Gereksiz yere maça katılamadığım için ban yedim. Oyunu yeni açarken, sırf ban yemem için maça katılırken beni bilerek attılar ve sunucuya yazdılar. Ben de cevap yazdım; 'Geliyorum, oyunu yeni açtım' gibi açıklamalarda bulundum. Bu durumu düzeltmeleri lazım, canlı de...
+------------------------------------------------------------
+
+[26] E-posta Erişimi Sorunu Ve Cevapsız Destek Talepleri
+Yazar: Emre
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/e-posta-erisimi-sorunu-ve-cevapsiz-destek-talepleri
+Rating: None
+İçerik: Faceit'e postama erişemiyorum. E-posta adresi değişimi için ticket gönderdim fakat aylar oldu, dönüş yapılmadı. İstediğiniz her bilgiye sahibim, hesabın benim olduğunu kanıtlayabilirim. Ticket'a geri dönüş yapılmasını istiyorum. Yardımcı olun lütfen, yeni bir Steam hesabı açmak istemiyorum.
+------------------------------------------------------------
+
+[27] Haksız Ban Ve Kaybolan Premium Süre
+Yazar: Yunus
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/haksiz-ban-ve-kaybolan-premium-sure
+Rating: None
+İçerik: Faceit hiçbir şey yapmama rağmen direkt olarak 1 hafta sözlü tacizden ban verdi. Tamamen ezbere verilmiş bir ceza haksızlık yapıldığını düşünüyorum. İnceleme için mail attım ama bakalım. Üstelik 1 hafta Premium boşa gidecek hakkımı helal etmiyorum yazık.
+------------------------------------------------------------
+
+[28] Faceit Hesabımın Entegrasyon Sorunu Ve Destek Eksikliği
+Yazar: Mehmet
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-hesabimin-entegrasyon-sorunu-ve-destek-eksikligi
+Rating: None
+İçerik: Merhabalar, faceıt hesabımı entegrasyon yapmak için Steam Hesabımı kullanmaya çalıştığımda daha öncesinde bir hesaba bağlı olduğunu gördüm. Düzeltilmesi maksadıyla Ticket attığımda e-mailimi istediler. Daha öncesinde kayıtlı olan hesabıma yeni hesabımın e-mailimi bağlandı. Düzeltilmesi için defalarc...
+------------------------------------------------------------
+
+[29] FACEIT Hesap Erişim Sorunu Ve Yetersiz Destek
+Yazar: Wiezax
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-hesap-erisim-sorunu-ve-yetersiz-destek
+Rating: None
+İçerik: 9 Ocak 2025'te faceit hesabımı devre dışı bırakmıştım. Tekrardan açmak istiyorum. Arkadaşlarıma sordum Ticket at açarlar dediler. Devre dışı bırakılan hesabıma ne yapsam yapayım giremedim şifreyi değiştiriyorum. 'Oturum açma bilgileriniz hatalı.' yazıyor. E-Postayı şifreyi doğru girmeme rağmen bu he...
+------------------------------------------------------------
+
+[30] Faceit Hesabımda Güvenlik Sorunları Ve Destek Eksikliği
+Yazar: Musa
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-hesabimda-guvenlik-sorunlari-ve-destek-eksikligi
+Rating: None
+İçerik: Faceit, smurf diyerek hesabımı 8. seviyeden 2. seviyeye indirdi. Sonra sürekli güvenlik sorunu oluştu. 999 tane maçım var, hiçbir şekilde destek hattına ulaşılamıyor. Hiçbir şekilde yardımcı olunmuyor. Hesabımı silmek zorunda kaldım. CS hesabımı başka bir hesaba da bağlayamıyorum. Bunun çözümü ne?
+------------------------------------------------------------
+
+[31] Haksız Ban Ve Yetersiz Destek
+Yazar: Emre
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/haksiz-ban-ve-yetersiz-destek
+Rating: None
+İçerik: Faceit Premium'da haksız bir şekilde banlandım. Takım içinde insanlar sizi rapor ederse, haksız yere de olsa ban yiyebiliyorsunuz. Paranızla mağdur oluyorsunuz. Destek ekibine ticket açtığınızda ise bir geri dönüş alamıyorsunuz. Bu nedenle Premium üyeliğimi iptal ettim.
+------------------------------------------------------------
+
+[32] Faceit Hesabına Erişim Sorunu: Yardım Bekliyorum
+Yazar: Ömer
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-hesabina-erisim-sorunu-yardim-bekliyorum
+Rating: None
+İçerik: Aslında benim zor durumda olduğum konu 2019 yılında açıp ana Steam csgo hesabımı bağladığım faceit hesabımın epostasına girememem ve bu yüzden faceit'e girememem yardıma ihtiyacım var. Lütfen yetkililerden biri gördüğünde destek olur. İnşallah faceit'imin bağlı olduğu Steam hesabıma giriş yapabiliy...
+------------------------------------------------------------
+
+[33] Hesabıma Erişemiyorum: Faceit Ve Mail Şifre Sorunu
+Yazar: Samet
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/hesabima-erisemiyorum-faceit-ve-mail-sifre-sorunu
+Rating: None
+İçerik: https://www.faceit.com/en/players/samet6154/stats/cs2 hesabıma giriş yapamıyorum. Şifremi sıfırlamamı istiyorlar fakat mail adresimin şifresini unuttu...
+------------------------------------------------------------
+
+[34] Hesabımdan İzinsiz Para Çekimi
+Yazar: Ortak
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/hesabimdan-izinsiz-para-cekimi-9
+Rating: None
+İçerik: Faceit hesabımdan para çekip duruyor. Sıkıldım artık, hesabım banlanmış, kartımdan aylardır para çekiyor. İptal etmiştim, iptal olamamış. Paramın iadesini istiyorum ve iptal olmasını talep ediyorum. Mailim e**************@gmail.com, kartımın son 4 hanesi 1036. RivalR6 Peek oyun ismim. Yeter artık!
+------------------------------------------------------------
+
+[35] Faceıt Anti Cheat'e Giriş Yapamıyorum!
+Yazar: Kemal
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-anti-cheate-giris-yapamiyorum
+Rating: None
+İçerik: Faceit kullanıyorum ama Anti Cheat'e giriş yapamıyorum giriş yap yazısına bastığımla kalıyorum. Silip tekrar yüklemek gibi basit şeylerde denedim. Geçmiş sürücüleri tekrar kurup denedim yine olmadı internetten araştırdım ama yaşadığım sorunla ilgili bir şey de bulamadım ne yapmalıyım?
+------------------------------------------------------------
+
+[36] FACEIT Admin Destek Hesabım Banlanmış
+Yazar: Umut
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-admin-destek-hesabim-banlanmis
+Rating: None
+İçerik: https://www.faceit.com/tr/players/Betayc hesabım banlanmış. Benim ikinci hesabım ve bir ban sebebi yok. Ana hesabım 9. seviye ve ikinci hesabım da 8. seviye. Herhangi bir smurfing'lik yok. Herkes 3-5 hesapla oynayabiliyor. Benim hesabım neden banlanıyor? Banı kaldırır mısınız? Bir el atın.
+------------------------------------------------------------
+
+[37] FACEIT Faceit De Yardımcı Admin Yok
+Yazar: Muhammed
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-faceit-de-yardimci-admin-yok
+Rating: None
+İçerik: Oyundayken elektriklerim kesildi. Yaklaşık 15 dakika sonra elektrikler geldi ve oyunuma kaldığım yerden devam ettim. Maçı bitirdikten sonra baktım ki 8 saat ban yemişim. Sebep olarak 'oyunu terk' yazıyor. Oyunu terk etmek istesem neden tekrar geri gelip devam edeyim ki? Sorunu anlatacak bir muhatap...
+------------------------------------------------------------
+
+[38] FACEIT Faceit Hesap Onaylama
+Yazar: Beyza
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-faceit-hesap-onaylama
+Rating: None
+İçerik: Hesabımı onaylayamıyorum. Resim ve kimlik belgesi istiyorlar. Yüz kere ışıklı alanda net bir fotoğraf çekildim fakat hala resminiz anlaşılmıyor diyor ve kesinlikle anlaşılır bir şekil. Uygulamada bir hata olduğunu düşünüyorum. Para verdim ve bu saçmalık yüzünden oynayamıyorum. Yardımcı olursanız sev...
+------------------------------------------------------------
+
+[39] Faceit Platformunda Yaşanan Sorunlar Ve Destek Eksikliği
+Yazar: Vedat
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-platformunda-yasanan-sorunlar-ve-destek-eksikligi
+Rating: None
+İçerik: Faceit üzerinden hiçbir desteğe ulaşamıyoruz. Bütün sayfalar kapalı, sürekli troll ve hile geliyor. Raporlamamıza rağmen bir sonuç yok, aynı trollcü iki kez takımıma geliyor. Listeden çıkardığım haritada oyun oynuyorum, her şey çok saçma. Bu da yetmezmiş gibi, trollere küfür ettiğim için ben ban yiy...
+------------------------------------------------------------
+
+[40] FACEIT Faceit Premium Alırken İNTERNAL_ERROR Hatası Alıyorum
+Yazar: Adem
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-faceit-premium-alirken-internal-error-hatasi-aliyorum
+Rating: None
+İçerik: Faceit Premium internal error hatası Ödeme kısmında kart bilgilerini girdiğimde bu hatayı alıyorum 3 farklı banka kartı ve kredi kartıyla denedim aynı hatayı aldım. Xsolla ya yazım hatanın kartlarda olmadığını söyledi. Faceit yardıma da yazdım sonuç çıkmadı ne yapabilirim
+------------------------------------------------------------
+
+[41] FACEIT Faceit Gmail Adresimi Unuttum
+Yazar: Talha
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-faceit-gmail-adresimi-unuttum
+Rating: None
+İçerik: 2020'de Faceit hesabı açıp oynamıştım ancak şu an o hesabı açtığım e-posta adresim kayıp. MM rek her şeye girebiliyorum. Steam ile ilgili ticket attım ancak geri dönüş sağlamadılar. Yardıma ihtiyacım var, lütfen yetkililerden biri ulaşsın. Faceit oynamak istiyorum ama oynayamıyorum.
+------------------------------------------------------------
+
+[42] FACEIT Faceit Platformunda Haksızlığa Uğradım!
+Yazar: Mustafa
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-faceit-platformunda-haksizliga-ugradim
+Rating: None
+İçerik: Ortada hiçbir sebep yokken cooldown veriliyor, gereksiz! Bu yasağı kaldırın, aksi takdirde ciddi adımlar atacağım. Faceit'i önermiyorum; ne kadar haksızlık varsa hepsini bu platformda görebilirsiniz. Maillere cevap verilmiyor, hileler ortada kol geziyor!
+------------------------------------------------------------
+
+[43] FACEIT Hesabımın Şifresini Değiştiremiyorum
+Yazar: Ali
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-hesabimin-sifresini-degistiremiyorum
+Rating: None
+İçerik: Şifremi değiştirmem için gerekli maili göndermiyorlar ve hesabıma erişim sağlayamıyorum. Kaç defa destek için mail attım o mailime geri dönüş yapıyorlar fakat şifre değiştirmem için gerekli olan link mailini göndermiyorlar. Bir aya yakındır bu sorunu yaşıyorum lütfen yardım edin.
+------------------------------------------------------------
+
+[44] FACEIT Faceit E Posta Alamıyorum.
+Yazar: Emre
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-faceit-e-posta-alamiyorum
+Rating: None
+İçerik: Faceit hesabımın şifresini unuttum ve 'şifremi unuttum' bölümünden şifremi değiştirmek istedim. Değiştirme ekranına geldim ve e-postamı girdim; ancak Faceit'te şu an kullandığım e-postama hiçbir şekilde bağlantı gelmedi. Sürekli kontrol ediyorum ama yok, lütfen yardımcı olun.
+------------------------------------------------------------
+
+[45] FACEIT Faceit Doğrulama Sorunu
+Yazar: Göksun
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-faceit-dogrulama-sorunu
+Rating: None
+İçerik: Faceit hesabım Premium hesap doğrulama istiyor. Hepsini doğru yaptım, 'Teşekkür ederim' dedi. Onay bekledim, ancak onaylamadı. Mail adresinize mesaj attım, konuşmalarımda da kimlik ve yüzümün resmini gönderdim, onay bekliyorum. Premium için o kadar para ödüyorum ama oyun oynayamıyorum, acilen ilgile...
+------------------------------------------------------------
+
+[46] FACEIT Hesabım Onaylanmıyor Ne Yapmam Gerek
+Yazar: Furkan
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-hesabim-onaylanmiyor-ne-yapmam-gerek
+Rating: None
+İçerik: Hesabım ne yaparsam yapayım onaylanmıyor, bir türlü onay verilmiyor. Kimlik ile onay yapıyorum, fotoğrafımı da çekiyorum ama hiçbir şekilde kabul edilmiyor. Destek talebi oluşturuyorum ancak cevap alamıyorum. Ne yapmam gerektiğini bir türlü çözemedim. Yardımcı olabilir misiniz? Sorunu bir türlü çöze...
+------------------------------------------------------------
+
+[47] FACEIT 2 Aşamalı Doğrulamamı Kaldıramıyorum Hesabıma Giremiyorum
+Yazar: Osman
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-2-asamali-dogrulamami-kaldiramiyorum-hesabima-giremiyorum
+Rating: None
+İçerik: Hesabı uzun zamandır kullanmıyordum. Yıllar sonra giriş yapmaya karar verdim ve hesap 2 aşamalı doğrulama istiyor. Bu özelliği kaldırdıklarını sanıyordum, fakat hesabım hala bu doğrulamayı talep ediyor. Durumu araştırdığımda, sorunu çözmek için destek talebi oluşturmam gerektiğini öğrendim. Destek t...
+------------------------------------------------------------
+
+[48] FACEIT Faceit Ban Politikası
+Yazar: Emir
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-faceit-ban-politikasi
+Rating: None
+İçerik: Faceit Ban Politikası. Faceit'te CS2 oynarken sürekli ban yiyorum hiç bakmaksızın ban atıp geçiyorlar. Bir kişi oyna girmedi ve iptal oldu ben de son 3 saniye kala oyundan çıktım afk kalmaktan ban yedim. Böyle bir şey olmaz destek hattına da ulaşılamıyor zaten.
+------------------------------------------------------------
+
+[49] FACEIT Premium Satın Alamıyorum
+Yazar: Ahmet
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-premium-satin-alamiyorum
+Rating: None
+İçerik: Premium satın alamıyorum. Hata vermesine rağmen her şeyi doğru yaptığıma eminim, 5 defa denememe rağmen başarılı olamadım ve bu nedenle destek talep ediyorum. Eğer bu sorunu çözemezsem, Faceit'in kötü bir program olduğunu düşünebilirim. Bu konuda sizden hem canlı hem de yazılı destek almak istiyorum...
+------------------------------------------------------------
+
+[50] FACEIT Faceit 2FA Kod Ve Bağlantı Sorunu
+Yazar: Osman
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-faceit-2fa-kod-ve-baglanti-sorunu
+Rating: None
+İçerik: Faceit hesabımda 2FA koruması bulunmaktadır. 'Maile kod yollandı, girin' deniyor; ancak mailime bakıyorum ve yarım saattir ne kod geldi ne bir şey. Muhatap olacak kimse yok. 'Şifremi unuttum' diyorum, 'sıfırlama bağlantısı maile yollandı' deniyor; fakat hiçbir şekilde ne bir kod ne de bir bağlantı g...
+------------------------------------------------------------
+
+[51] Faceıt Giriş Yapamıyorum
+Yazar: Mert
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-giris-yapamiyorum
+Rating: None
+İçerik: Steam csgo hesabımı bağladığım faceit hesabımın epostasını hatırlamamam ve bu yüzden faceit'e girememem yardıma ihtiyacım var. Lütfen yetkililerden biri gördüğünde destek olur. İnşallah faceit'imin bağlı olduğu Steam hesabıma giriş yapabiliyorum, oynuyorum. Fakat faceit hesabım kayıp postası o yüzd...
+------------------------------------------------------------
+
+[52] FACEIT Faceit Ticket Cevap Vermiyor Hesabıma Giriş Yapamıyorum
+Yazar: Ediz
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-faceit-ticket-cevap-vermiyor-hesabima-giris-yapamiyorum
+Rating: None
+İçerik: Faceit hesabıma erişim sağlayamıyorum. Şifrem ile mailim aynı değiştirmedim kimseyle de paylaşmadım ama her denememde yanlış deyip duruyor. 1 haftadır attığım ticketa geri dönmediler. Ne mail değiştiriyorlar ne şifre. Robot bir mesaj gönderildi. Cevap verilecek diye hala bekliyoruz giderin sorunumu...
+------------------------------------------------------------
+
+[53] Faceıt Hesabımın E Posta Adresini Unuttum. Giriş Yapamıyorum!
+Yazar: Ercan
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-hesabimin-e-posta-adresini-unuttum-giris-yapamiyorum
+Rating: None
+İçerik: Faceit hesabımın e posta adresini unuttum hiçbir şekilde giriş yapamıyorum! Steam hesabımın kendime ait olduğunu ve Face it hesabımın kendime ait olduğunu kanıtlayabilirim! Cs GO üzerinden mm maçlarına vb. Maçlara rahatlıkla giriş yapabiliyorum ama Face it üzerinden giremiyorum. Lütfen e postamı değ...
+------------------------------------------------------------
+
+[54] FACEIT Faceit Adaletsiz Takım Eşleştirmesi
+Yazar: Alihan
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-faceit-adaletsiz-takim-eslestirmesi
+Rating: None
+İçerik: Faceit asla düzgün oyuncu vermez oldu smurfler hileciler ve yetenek grubumdan yüksek oyuncularla dolu takımlar ayrıca takımıma gelen oyuncular hep troll. Düzgünce oyun oynayamaz oldum rapor ettiğim oyuncular ceza almıyorlar. Premium aldığıma pişman oldum
+------------------------------------------------------------
+
+[55] FACEIT Faceit Ac Hatası
+Yazar: Melih
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-faceit-ac-hatasi
+Rating: None
+İçerik: Steam Counter Strike Global Offensive'ı yüklü görmemesinden dolayı Faceit maçına katılamadım. Bu sürekli olarak oluyor. Sebebi de Counter Strike Global Offensive oyununu önceden açıyorum ve sonrasında Faceit anticheat açıldığı zaman Counter Strike Global Offensive oyunu kapanıyor ve oyunu bilgisayar...
+------------------------------------------------------------
+
+[56] Faceit E-postamı Unuttum
+Yazar: Batuhan
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-e-postami-unuttum
+Rating: None
+İçerik: 
+------------------------------------------------------------
+
+[57] FACEIT Otomatik Ödeme Yüzünden Paramın Çekilmesi
+Yazar: Enes
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-otomatik-odeme-yuzunden-paramin-cekilmesi
+Rating: None
+İçerik: Faceit otomatik ödeme para çekmiş benim kartımın kayıtlı olduğundan haberim yoktu paramın geri ödenmesini istiyorum.
+------------------------------------------------------------
+
+[58] Sunucu Çökmesi Nedeniyle Ücretli Faceit Plus Üyeliğinde Aldığım Haksız Banlar
+Yazar: Mert
+Tarih: 2026-05-03 02:43:00
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/sunucu-cokmesi-nedeniyle-ucretli-faceit-plus-uyeliginde-aldigim-haksiz-banlar
+Rating: None
+İçerik: CS2’de daha adil bir oyun ortamı sağlamak için ücret ödeyerek Faceit üzerinden oynamayı tercih ettim ve şu anda Faceit Plus aboneliği kullanıyorum. Her ay düzenli olarak ödememi yapmama rağmen sistemin işleyişiyle ilgili ciddi bir problem yaşıyorum. Yaklaşık her 4–5 maçta bir, içinde bulunduğumuz oy...
+------------------------------------------------------------
+
+[59] Faceit Steam Prime Durumunu Görmüyor Ve Bağlantıya İzin Vermiyor
+Yazar: Saas
+Tarih: 2026-04-29 23:48:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-steam-prime-durumunu-gormuyor-ve-baglantiya-izin-vermiyor
+Rating: None
+İçerik: Yaklaşık iki yıl önce cs2 oynamak için Faceit hesabı açmıştım. Bugün tekrar oynamak istediğimde, Steam hesabımda cs2’de seçkin (Prime) olmama rağmen Faceit, Steam hesabımın cs2 seçkin durumuna sahip olmadığını söyleyerek hesabımı bağlamama izin vermiyor. Steam hesabım ve giriş bilgilerim tamamen doğ...
+------------------------------------------------------------
+
+[60] Arkadaş Banı Nedeniyle Haksız 200 Elo Kaybı Ve Destek Yanıtsızlığı
+Yazar: Alihan
+Tarih: 2026-04-23 20:48:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/arkadas-bani-nedeniyle-haksiz-200-elo-kaybi-ve-destek-yanitsizligi
+Rating: None
+İçerik: Yaklaşık 2 gün önce Faceit üzerinden cs2 oynarken yaşadığım bir durum nedeniyle 200 elo kaybettim. Beraber oynadığım, Adana’da yaşayan B****** S***** adlı arkadaşımın hesabı banlandı ve bu banlanma sonrası hiçbir suçum ya da ihlalim olmamasına rağmen benim de elom düştü. Bu süreçte kendi hesabımda...
+------------------------------------------------------------
+
+[61] Faceit Smurf Banı Haksız, Açıklama Ve İtiraz
+Yazar: Gökhan
+Tarih: 2026-04-22 21:43:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-smurf-bani-haksiz-aciklama-ve-itiraz
+Rating: None
+İçerik: Uzun süredir cs2 için kullandığım Faceit hesabımda, hiçbir şekilde smurf olmadığım halde “smurf” gerekçesiyle 1 ay ban yediğimi 22.04.2026 tarihinde gördüm. Banın sistemde başlangıç saati 00.12 olarak görünüyor ve bitiş tarihi de 22.05.2026 olarak belirtilmiş. Faceit üzerindeki kullanıcı adım “gokko...
+------------------------------------------------------------
+
+[62] Faceit Platformunda Smurf Şüphesi Nedeniyle Elo Puanlarım Siliniyor
+Yazar: Uğur
+Tarih: 2026-04-08 13:22:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-platformunda-smurf-suphesi-nedeniyle-elo-puanlarim-siliniyor
+Rating: None
+İçerik: Faceit platformunda “Sherkeyz” kullanıcı adlı hesabımda, sistem tarafından smurf hesap muamelesi görüyorum ve bunun sonucunda kazandığım elo puanlarım düzenli olarak siliniyor. Bugün yine aynı durumu yaşadım, daha önce de defalarca kez emek vererek kazandığım puanlar sistem tarafından geri alındı....
+------------------------------------------------------------
+
+[63] Faceit Hesabım Doğrulanamıyor Ve Destek Yanıt Vermiyor
+Yazar: Tuna
+Tarih: 2026-03-21 17:08:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-hesabim-dogrulanamiyor-ve-destek-yanit-vermiyor
+Rating: None
+İçerik: Counter Strike 2 oynarken kullandığım Faceit hesabımı onaylamaya çalışıyorum ancak 2 gündür sürekli “yüz eşleştirme başarısız” hatası alıyorum. Bugün de kısa süre önce tekrar denememe rağmen aynı hata devam ediyor ve hesabımı bir türlü doğrulayamıyorum. Hesap kullanıcı adım Tuna5405’tir. Yaşadığım...
+------------------------------------------------------------
+
+[64] Faceit Hesabına Erişilemiyor Ve Destekten Yanıt Gelmedi
+Yazar: Çağrı
+Tarih: 2026-02-18 21:21:00
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-hesabina-erisilemiyor-ve-destekten-yanit-gelmedi
+Rating: None
+İçerik: Uzun süredir Faceit hesabıma erişim sağlayamıyorum. Hesabımda kayıtlı e‑posta adresinin şifresini unuttuğum için e‑postaya da giriş yapamıyorum ve bu nedenle Faceit hesabıma erişimim tamamen kesilmiş durumda. Yaklaşık 5–6 aydır bu sorun devam ediyor. Faceit destek ekibine bugün site içi destek form...
+------------------------------------------------------------
+
+[65] Kimliğinde Fotoğraf Olmadığı İçin Faceit Doğrulama Reddi Ve Destek Eksikliği
+Yazar: Burak
+Tarih: 2026-02-15 19:11:00
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/kimliginde-fotograf-olmadigi-icin-faceit-dogrulama-reddi-ve-destek-eksikligi
+Rating: None
+İçerik: Kuzenimle birlikte CS2’de seçkin alıp Faceit oynamak istedik; ancak kuzenimin hesabında kimlik doğrulama aşamasında sorun yaşıyoruz. Yüz tanıma kısmı sorunsuz tamamlanmasına rağmen kimlik doğrulama adımında sistem, kuzenimin kimliğinde fotoğraf olmadığı için kimliği okumuyor ve bu nedenle doğrulama...
+------------------------------------------------------------
+
+[66] Süresiz Ban Ve Smurf İddiası Haksız Şekilde Verildi
+Yazar: Ali
+Tarih: 2026-02-11 19:57:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/suresiz-ban-ve-smurf-iddiasi-haksiz-sekilde-verildi
+Rating: None
+İçerik: 09.02.2026 tarihinde Faceit hesabım “romeo457” süresiz olarak banlandı. Ban gerekçesi olarak sistemde “smurf” ifadesi yer alıyor ancak ortada smurf kullanımı veya çoklu hesap ihlali olmadığını özellikle belirtmek istiyorum. Kendi hesabıma arkadaşımın bilgisayarından giriş yapıp sadece 5 maç oynadım,...
+------------------------------------------------------------
+
+[67] Faceıt Yanlış Oyun Hesabı Banı Ve Eski Hesap Silme Talebi
+Yazar: Ali
+Tarih: 2026-02-10 21:18:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-yanlis-oyun-hesabi-bani-ve-eski-hesap-silme-talebi
+Rating: None
+İçerik: Faceit üzerinden Counter Strike 2 oynadığım r*** adlı hesabıma, 09.02.2026 tarihinden beri “smurfing” gerekçesiyle ban uygulanmış durumda. Ancak bu banın haksız olduğunu düşünüyorum. Sistemde iki hesabım görünüyor olsa da, diğer hesabım yaklaşık 1 senedir aktif değil ve geçmişte kardeşimin oynayabil...
+------------------------------------------------------------
+
+[68] Faceıt Facebook Hesabım Erişilemiyor, E‑posta Güncellemesi İçin Manuel İnceleme Talebi
+Yazar: Barış
+Tarih: 2026-02-06 22:01:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-facebook-hesabim-erisilemiyor-eposta-guncellemesi-icin-manuel-inceleme-talebi
+Rating: None
+İçerik: Faceıt hesabıma 05.02.2026 tarihinden beri erişemiyorum. Hesabıma bağlı olan e‑posta adresine artık erişimim yok ve bu yüzden ne o e‑posta adresini ne de şifresini hatırlayamıyorum. Bilgisayarımı formatladıktan sonra bu e‑posta hesabını kaybettim ve şu anda tamamen kullanamıyorum. Faceıt’e Steam üz...
+------------------------------------------------------------
+
+[69] Faceit Hesabına Giriş Kodu Gelmemesi Ve Destek Yanıtı Yok
+Yazar: Kadir
+Tarih: 2026-02-02 17:04:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-hesabina-giris-kodu-gelmemesi-ve-destek-yaniti-yok
+Rating: None
+İçerik: Yaklaşık 2–3 gündür Faceit hesabıma giriş yapmaya çalışıyorum ancak kayıtlı e‑posta adresime hiçbir şekilde giriş kodu gelmiyor. Bu nedenle hesabımı kullanamıyor ve ücretini ödediğim hizmetlerden yararlanamıyorum. Hesabımın ismi Wham_X. Defalarca giriş kodu talep etmeme rağmen e‑postama herhangi bi...
+------------------------------------------------------------
+
+[70] Haksız Ban Ve Makro Yazılımı Nedeniyle İnceleme Talebi
+Yazar: Mert
+Tarih: 2026-01-21 18:14:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/haksiz-ban-ve-makro-yazilimi-nedeniyle-inceleme-talebi
+Rating: None
+İçerik: Faceit üzerinden Counter-Strike 2 oynarken tmfenj kullanıcı adlı hesabımla 19 Şubat 2025 tarihinde haksız yere ban aldığımı düşünüyorum. Bilgisayarımı aynı zamanda kardeşim de kullanıyor ve PUBG: Battlegrounds için Makro tarzı bir yazılım indirmiş. Ben Faceit’te maça girdiğim sırada bilgisayarda bu...
+------------------------------------------------------------
+
+[71] Faceit Yüz Doğrulama Sorunu: Sürekli Algılanmadı
+Yazar: Kaan
+Tarih: 2026-01-02 00:13:00
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-yuz-dogrulama-sorunu-surekli-algilanmadi
+Rating: None
+İçerik: Faceit hesabımda bugün yaklaşık 22.50 sularında yüz doğrulama yapmaya çalışırken sistem sürekli olarak “yüz algılanmadı” hatası veriyor. Tüm adımları doğru uygulamama rağmen defalarca denememe karşın yüzümü bir türlü algılamıyor. Şu ana kadar en az 11 kez farklı ışık koşullarında, farklı açılarda v...
+------------------------------------------------------------
+
+[72] Faceit Hesabına Erişemiyorum Ve Destek İletişimi Kurulamıyor
+Yazar: Veli
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-hesabina-erisemiyorum-ve-destek-iletisimi-kurulamiyor
+Rating: None
+İçerik: Cs2 oynarken kullandığım Faceit hesabıma bugün itibarıyla erişemiyorum. Hesabımı açarken kullandığım e-posta adresini unuttuğum için giriş yapamıyorum...
+------------------------------------------------------------
+
+[73] Haksız Smurf Banı Nedeniyle Hesabım Kapatıldı
+Yazar: Berkay
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/haksiz-smurf-bani-nedeniyle-hesabim-kapatildi
+Rating: None
+İçerik: 10 Kasım 2025 tarihinde saat 22:00 civarında SM4SHH60 kullanıcı adlı Faceit hesabım, 'smurf' gerekçesiyle 1 ay süreyle banlandı. Ancak bu ban kararının haksız olduğunu düşünüyorum. Ban gerekçesi olarak smurf belirtilmiş olsa da, diğer hesabım da Faceit 4. seviyede ve ana hesabım da 4-5 seviye arasın...
+------------------------------------------------------------
+
+[74] Faceit Avrupa Sunucularında Troll Ve Toxic Oyunculara Karşı Çözüm Bekliyorum!
+Yazar: Özkan
+Tarih: None
+Sentiment: positive
+URL: https://www.sikayetvar.com/faceit/faceit-avrupa-sunucularinda-troll-ve-toxic-oyunculara-karsi-cozum-bekliyorum
+Rating: None
+İçerik: Uzun süredir cs 2 oyununda Faceit platformunda Avrupa sunucularında oynuyorum ve aylardır oyun bozan, troll ve toksik oyuncularla karşılaşıyorum. Bu kişiler oyun deneyimimi ciddi şekilde olumsuz etkiliyor ve adil olmayan bir şekilde maç kaybetmeme neden oluyorlar. Yaşadığım bu durumlarda ilgili oyun...
+------------------------------------------------------------
+
+[75] E-posta Değişikliği Sırasında 403 Hatası Ve Destek Talebi Oluşturamama Sorunu
+Yazar: Kuzey
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/e-posta-degisikligi-sirasinda-403-hatasi-ve-destek-talebi-olusturamama-sorunu
+Rating: None
+İçerik: Faceit hesabımda e-posta adresimi değiştirmek ve Faceit Support’taki e-postamla aynı şekilde onaylı hale getirmek istiyorum. Ancak 5-6 Eylül 2025’ten...
+------------------------------------------------------------
+
+[76] Faceıt Seçkin Hesap Satın Aldım, Yine De Oyun Erişimi Sağlanmıyor
+Yazar: Snanae
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-seckin-hesap-satin-aldim-yine-de-oyun-erisimi-saglanmiyor
+Rating: None
+İçerik: Faceit platformunda bugün “t***” kullanıcı adlı hesabımla yeni bir hesap açtım ve 14,99 dolar ödeyerek seçkin hesap satın aldım. Ancak, cs2 oynamak için seçkin hesabım olmasına rağmen sistem sürekli olarak “Hesabınızı seçkin hesaba yükseltin” şeklinde hata veriyor ve Steam bağlantısı gerçekleşmiyor....
+------------------------------------------------------------
+
+[77] Şifre Sıfırlama Maili Ulaşmıyor, Hesabıma Erişemiyorum
+Yazar: Tolunay
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/sifre-sifirlama-maili-ulasmiyor-hesabima-erisemiyorum
+Rating: None
+İçerik: Faceit hesabıma yaklaşık 10 gündür erişim sağlayamıyorum. Şifremi unuttuğum için şifre sıfırlama talebinde bulundum ancak bugüne kadar yaklaşık 20 kez denememe rağmen z. De****@gmail.com adresime hiçbir şekilde şifre sıfırlama maili ulaşmadı. İşlem sırasında herhangi bir hata mesajı da almıyorum, si...
+------------------------------------------------------------
+
+[78] E-posta Adresime Erişimim Yok, Faceit Destek Ekibinden Yanıt Alamıyorum
+Yazar: Ferhat
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/e-posta-adresime-erisimim-yok-faceit-destek-ekibinden-yanit-alamiyorum
+Rating: None
+İçerik: Faceit hesabıma bağlı olan f********@hotmail.com e-posta adresime artık erişimim yok. Hesabıma giriş yapabilmem için sistem sürekli bu e-posta adresine kod gönderiyor. E-posta adresimin artık ulaşılabilir olmadığını defalarca kez Faceit destek ekibine ilettim ve e-posta değişimi talebinde bulundum....
+------------------------------------------------------------
+
+[79] Kimlik Doğrulama Sorunu Ve Hatalı Çoklu Hesap Uyarısı
+Yazar: Mehmet
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/kimlik-dogrulama-sorunu-ve-hatali-coklu-hesap-uyarisi
+Rating: None
+İçerik: Kimlik doğrulama istiyor. Çoklu hesap algılandı diyor. Bilgisayarı sıfır aldım, ne alaka anlamıyorum. Selfie hiçbir şekilde kabul etmiyor. iOS ve Android'in hepsini denedim, olmuyor. Bu konuda sorunu çözen oldu mu? Bazıları iki hesap ile oynuyor, Faceit'te ben bir hesap bile açamıyorum.
+------------------------------------------------------------
+
+[80] Faceit Hesabım Haksız Yere Ghosting Suçlamasıyla Banlandı Mağduriyetim Giderilmiyor
+Yazar: Mert
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-hesabim-haksiz-yere-ghosting-suclamasiyla-banlandi-magduriyetim-giderilmiyor
+Rating: None
+İçerik: Faceit hesabım (https://www.faceit.com/tr/players/Black_maskk), 29.07.25 tarihinde “ghosting” gerekçesiyle haksız ve sebepsiz bir şekilde banlandı. Hiçbir şekilde “ghosting” yapmadım ve bu suçu işlediğime dair bana herhangi bir kanıt iletilmedi. Yasaklanmam, oyun sırasında toksik davranan bir takım...
+------------------------------------------------------------
+
+[81] Faceit Premium Kullanıcılarının Güncelleme Sonrası Giriş Sorunu
+Yazar: Anıl
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-premium-kullanicilarinin-guncelleme-sonrasi-giris-sorunu
+Rating: None
+İçerik: Steam CS2'ye güncelleme geleli 1 saat oldu. Faceit hâlâ girişleri kapalı. İki hesabım var ve ikisinde de Premium üyelik bulunuyor. İki saati geçti, Faceit girişlerinin açılmasını bekliyorum. Steam'e güncelleme geldikten sonra oyuna girişler açıldı, ancak sizde hâlâ kapalı. Kullanıcılar olarak güncel...
+------------------------------------------------------------
+
+[82] Sunucu Çökmesi Nedeniyle Ücretli Faceit Plus Üyeliğinde Aldığım Haksız Banlar
+Yazar: Mert
+Tarih: 2026-05-03 02:43:00
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/sunucu-cokmesi-nedeniyle-ucretli-faceit-plus-uyeliginde-aldigim-haksiz-banlar
+Rating: None
+İçerik: CS2’de daha adil bir oyun ortamı sağlamak için ücret ödeyerek Faceit üzerinden oynamayı tercih ettim ve şu anda Faceit Plus aboneliği kullanıyorum. Her ay düzenli olarak ödememi yapmama rağmen sistemin işleyişiyle ilgili ciddi bir problem yaşıyorum. Yaklaşık her 4–5 maçta bir, içinde bulunduğumuz oy...
+------------------------------------------------------------
+
+[83] Faceit Steam Prime Durumunu Görmüyor Ve Bağlantıya İzin Vermiyor
+Yazar: Saas
+Tarih: 2026-04-29 23:48:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-steam-prime-durumunu-gormuyor-ve-baglantiya-izin-vermiyor
+Rating: None
+İçerik: Yaklaşık iki yıl önce cs2 oynamak için Faceit hesabı açmıştım. Bugün tekrar oynamak istediğimde, Steam hesabımda cs2’de seçkin (Prime) olmama rağmen Faceit, Steam hesabımın cs2 seçkin durumuna sahip olmadığını söyleyerek hesabımı bağlamama izin vermiyor. Steam hesabım ve giriş bilgilerim tamamen doğ...
+------------------------------------------------------------
+
+[84] Arkadaş Banı Nedeniyle Haksız 200 Elo Kaybı Ve Destek Yanıtsızlığı
+Yazar: Alihan
+Tarih: 2026-04-23 20:48:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/arkadas-bani-nedeniyle-haksiz-200-elo-kaybi-ve-destek-yanitsizligi
+Rating: None
+İçerik: Yaklaşık 2 gün önce Faceit üzerinden cs2 oynarken yaşadığım bir durum nedeniyle 200 elo kaybettim. Beraber oynadığım, Adana’da yaşayan B****** S***** adlı arkadaşımın hesabı banlandı ve bu banlanma sonrası hiçbir suçum ya da ihlalim olmamasına rağmen benim de elom düştü. Bu süreçte kendi hesabımda...
+------------------------------------------------------------
+
+[85] Faceit Smurf Banı Haksız, Açıklama Ve İtiraz
+Yazar: Gökhan
+Tarih: 2026-04-22 21:43:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-smurf-bani-haksiz-aciklama-ve-itiraz
+Rating: None
+İçerik: Uzun süredir cs2 için kullandığım Faceit hesabımda, hiçbir şekilde smurf olmadığım halde “smurf” gerekçesiyle 1 ay ban yediğimi 22.04.2026 tarihinde gördüm. Banın sistemde başlangıç saati 00.12 olarak görünüyor ve bitiş tarihi de 22.05.2026 olarak belirtilmiş. Faceit üzerindeki kullanıcı adım “gokko...
+------------------------------------------------------------
+
+[86] Faceit Platformunda Smurf Şüphesi Nedeniyle Elo Puanlarım Siliniyor
+Yazar: Uğur
+Tarih: 2026-04-08 13:22:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-platformunda-smurf-suphesi-nedeniyle-elo-puanlarim-siliniyor
+Rating: None
+İçerik: Faceit platformunda “Sherkeyz” kullanıcı adlı hesabımda, sistem tarafından smurf hesap muamelesi görüyorum ve bunun sonucunda kazandığım elo puanlarım düzenli olarak siliniyor. Bugün yine aynı durumu yaşadım, daha önce de defalarca kez emek vererek kazandığım puanlar sistem tarafından geri alındı....
+------------------------------------------------------------
+
+[87] Faceit Hesabım Doğrulanamıyor Ve Destek Yanıt Vermiyor
+Yazar: Tuna
+Tarih: 2026-03-21 17:08:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-hesabim-dogrulanamiyor-ve-destek-yanit-vermiyor
+Rating: None
+İçerik: Counter Strike 2 oynarken kullandığım Faceit hesabımı onaylamaya çalışıyorum ancak 2 gündür sürekli “yüz eşleştirme başarısız” hatası alıyorum. Bugün de kısa süre önce tekrar denememe rağmen aynı hata devam ediyor ve hesabımı bir türlü doğrulayamıyorum. Hesap kullanıcı adım Tuna5405’tir. Yaşadığım...
+------------------------------------------------------------
+
+[88] Faceit Hesabına Erişilemiyor Ve Destekten Yanıt Gelmedi
+Yazar: Çağrı
+Tarih: 2026-02-18 21:21:00
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-hesabina-erisilemiyor-ve-destekten-yanit-gelmedi
+Rating: None
+İçerik: Uzun süredir Faceit hesabıma erişim sağlayamıyorum. Hesabımda kayıtlı e‑posta adresinin şifresini unuttuğum için e‑postaya da giriş yapamıyorum ve bu nedenle Faceit hesabıma erişimim tamamen kesilmiş durumda. Yaklaşık 5–6 aydır bu sorun devam ediyor. Faceit destek ekibine bugün site içi destek form...
+------------------------------------------------------------
+
+[89] Kimliğinde Fotoğraf Olmadığı İçin Faceit Doğrulama Reddi Ve Destek Eksikliği
+Yazar: Burak
+Tarih: 2026-02-15 19:11:00
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/kimliginde-fotograf-olmadigi-icin-faceit-dogrulama-reddi-ve-destek-eksikligi
+Rating: None
+İçerik: Kuzenimle birlikte CS2’de seçkin alıp Faceit oynamak istedik; ancak kuzenimin hesabında kimlik doğrulama aşamasında sorun yaşıyoruz. Yüz tanıma kısmı sorunsuz tamamlanmasına rağmen kimlik doğrulama adımında sistem, kuzenimin kimliğinde fotoğraf olmadığı için kimliği okumuyor ve bu nedenle doğrulama...
+------------------------------------------------------------
+
+[90] Süresiz Ban Ve Smurf İddiası Haksız Şekilde Verildi
+Yazar: Ali
+Tarih: 2026-02-11 19:57:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/suresiz-ban-ve-smurf-iddiasi-haksiz-sekilde-verildi
+Rating: None
+İçerik: 09.02.2026 tarihinde Faceit hesabım “romeo457” süresiz olarak banlandı. Ban gerekçesi olarak sistemde “smurf” ifadesi yer alıyor ancak ortada smurf kullanımı veya çoklu hesap ihlali olmadığını özellikle belirtmek istiyorum. Kendi hesabıma arkadaşımın bilgisayarından giriş yapıp sadece 5 maç oynadım,...
+------------------------------------------------------------
+
+[91] Faceıt Yanlış Oyun Hesabı Banı Ve Eski Hesap Silme Talebi
+Yazar: Ali
+Tarih: 2026-02-10 21:18:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-yanlis-oyun-hesabi-bani-ve-eski-hesap-silme-talebi
+Rating: None
+İçerik: Faceit üzerinden Counter Strike 2 oynadığım r*** adlı hesabıma, 09.02.2026 tarihinden beri “smurfing” gerekçesiyle ban uygulanmış durumda. Ancak bu banın haksız olduğunu düşünüyorum. Sistemde iki hesabım görünüyor olsa da, diğer hesabım yaklaşık 1 senedir aktif değil ve geçmişte kardeşimin oynayabil...
+------------------------------------------------------------
+
+[92] Faceıt Facebook Hesabım Erişilemiyor, E‑posta Güncellemesi İçin Manuel İnceleme Talebi
+Yazar: Barış
+Tarih: 2026-02-06 22:01:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-facebook-hesabim-erisilemiyor-eposta-guncellemesi-icin-manuel-inceleme-talebi
+Rating: None
+İçerik: Faceıt hesabıma 05.02.2026 tarihinden beri erişemiyorum. Hesabıma bağlı olan e‑posta adresine artık erişimim yok ve bu yüzden ne o e‑posta adresini ne de şifresini hatırlayamıyorum. Bilgisayarımı formatladıktan sonra bu e‑posta hesabını kaybettim ve şu anda tamamen kullanamıyorum. Faceıt’e Steam üz...
+------------------------------------------------------------
+
+[93] Faceit Hesabına Giriş Kodu Gelmemesi Ve Destek Yanıtı Yok
+Yazar: Kadir
+Tarih: 2026-02-02 17:04:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-hesabina-giris-kodu-gelmemesi-ve-destek-yaniti-yok
+Rating: None
+İçerik: Yaklaşık 2–3 gündür Faceit hesabıma giriş yapmaya çalışıyorum ancak kayıtlı e‑posta adresime hiçbir şekilde giriş kodu gelmiyor. Bu nedenle hesabımı kullanamıyor ve ücretini ödediğim hizmetlerden yararlanamıyorum. Hesabımın ismi Wham_X. Defalarca giriş kodu talep etmeme rağmen e‑postama herhangi bi...
+------------------------------------------------------------
+
+[94] Haksız Ban Ve Makro Yazılımı Nedeniyle İnceleme Talebi
+Yazar: Mert
+Tarih: 2026-01-21 18:14:00
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/haksiz-ban-ve-makro-yazilimi-nedeniyle-inceleme-talebi
+Rating: None
+İçerik: Faceit üzerinden Counter-Strike 2 oynarken tmfenj kullanıcı adlı hesabımla 19 Şubat 2025 tarihinde haksız yere ban aldığımı düşünüyorum. Bilgisayarımı aynı zamanda kardeşim de kullanıyor ve PUBG: Battlegrounds için Makro tarzı bir yazılım indirmiş. Ben Faceit’te maça girdiğim sırada bilgisayarda bu...
+------------------------------------------------------------
+
+[95] Faceit Yüz Doğrulama Sorunu: Sürekli Algılanmadı
+Yazar: Kaan
+Tarih: 2026-01-02 00:13:00
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-yuz-dogrulama-sorunu-surekli-algilanmadi
+Rating: None
+İçerik: Faceit hesabımda bugün yaklaşık 22.50 sularında yüz doğrulama yapmaya çalışırken sistem sürekli olarak “yüz algılanmadı” hatası veriyor. Tüm adımları doğru uygulamama rağmen defalarca denememe karşın yüzümü bir türlü algılamıyor. Şu ana kadar en az 11 kez farklı ışık koşullarında, farklı açılarda v...
+------------------------------------------------------------
+
+[96] Faceit Hesabına Erişemiyorum Ve Destek İletişimi Kurulamıyor
+Yazar: Veli
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-hesabina-erisemiyorum-ve-destek-iletisimi-kurulamiyor
+Rating: None
+İçerik: Cs2 oynarken kullandığım Faceit hesabıma bugün itibarıyla erişemiyorum. Hesabımı açarken kullandığım e-posta adresini unuttuğum için giriş yapamıyorum...
+------------------------------------------------------------
+
+[97] Haksız Smurf Banı Nedeniyle Hesabım Kapatıldı
+Yazar: Berkay
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/haksiz-smurf-bani-nedeniyle-hesabim-kapatildi
+Rating: None
+İçerik: 10 Kasım 2025 tarihinde saat 22:00 civarında SM4SHH60 kullanıcı adlı Faceit hesabım, 'smurf' gerekçesiyle 1 ay süreyle banlandı. Ancak bu ban kararının haksız olduğunu düşünüyorum. Ban gerekçesi olarak smurf belirtilmiş olsa da, diğer hesabım da Faceit 4. seviyede ve ana hesabım da 4-5 seviye arasın...
+------------------------------------------------------------
+
+[98] Faceit Avrupa Sunucularında Troll Ve Toxic Oyunculara Karşı Çözüm Bekliyorum!
+Yazar: Özkan
+Tarih: None
+Sentiment: positive
+URL: https://www.sikayetvar.com/faceit/faceit-avrupa-sunucularinda-troll-ve-toxic-oyunculara-karsi-cozum-bekliyorum
+Rating: None
+İçerik: Uzun süredir cs 2 oyununda Faceit platformunda Avrupa sunucularında oynuyorum ve aylardır oyun bozan, troll ve toksik oyuncularla karşılaşıyorum. Bu kişiler oyun deneyimimi ciddi şekilde olumsuz etkiliyor ve adil olmayan bir şekilde maç kaybetmeme neden oluyorlar. Yaşadığım bu durumlarda ilgili oyun...
+------------------------------------------------------------
+
+[99] E-posta Değişikliği Sırasında 403 Hatası Ve Destek Talebi Oluşturamama Sorunu
+Yazar: Kuzey
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/e-posta-degisikligi-sirasinda-403-hatasi-ve-destek-talebi-olusturamama-sorunu
+Rating: None
+İçerik: Faceit hesabımda e-posta adresimi değiştirmek ve Faceit Support’taki e-postamla aynı şekilde onaylı hale getirmek istiyorum. Ancak 5-6 Eylül 2025’ten...
+------------------------------------------------------------
+
+[100] Faceıt Seçkin Hesap Satın Aldım, Yine De Oyun Erişimi Sağlanmıyor
+Yazar: Snanae
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/faceit-seckin-hesap-satin-aldim-yine-de-oyun-erisimi-saglanmiyor
+Rating: None
+İçerik: Faceit platformunda bugün “t***” kullanıcı adlı hesabımla yeni bir hesap açtım ve 14,99 dolar ödeyerek seçkin hesap satın aldım. Ancak, cs2 oynamak için seçkin hesabım olmasına rağmen sistem sürekli olarak “Hesabınızı seçkin hesaba yükseltin” şeklinde hata veriyor ve Steam bağlantısı gerçekleşmiyor....
+------------------------------------------------------------
+
+[101] Şifre Sıfırlama Maili Ulaşmıyor, Hesabıma Erişemiyorum
+Yazar: Tolunay
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/sifre-sifirlama-maili-ulasmiyor-hesabima-erisemiyorum
+Rating: None
+İçerik: Faceit hesabıma yaklaşık 10 gündür erişim sağlayamıyorum. Şifremi unuttuğum için şifre sıfırlama talebinde bulundum ancak bugüne kadar yaklaşık 20 kez denememe rağmen z. De****@gmail.com adresime hiçbir şekilde şifre sıfırlama maili ulaşmadı. İşlem sırasında herhangi bir hata mesajı da almıyorum, si...
+------------------------------------------------------------
+
+[102] E-posta Adresime Erişimim Yok, Faceit Destek Ekibinden Yanıt Alamıyorum
+Yazar: Ferhat
+Tarih: None
+Sentiment: neutral
+URL: https://www.sikayetvar.com/faceit/e-posta-adresime-erisimim-yok-faceit-destek-ekibinden-yanit-alamiyorum
+Rating: None
+İçerik: Faceit hesabıma bağlı olan f********@hotmail.com e-posta adresime artık erişimim yok. Hesabıma giriş yapabilmem için sistem sürekli bu e-posta adresine kod gönderiyor. E-posta adresimin artık ulaşılabilir olmadığını defalarca kez Faceit destek ekibine ilettim ve e-posta değişimi talebinde bulundum....
+------------------------------------------------------------
+
+[103] Kimlik Doğrulama Sorunu Ve Hatalı Çoklu Hesap Uyarısı
+Yazar: Mehmet
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/kimlik-dogrulama-sorunu-ve-hatali-coklu-hesap-uyarisi
+Rating: None
+İçerik: Kimlik doğrulama istiyor. Çoklu hesap algılandı diyor. Bilgisayarı sıfır aldım, ne alaka anlamıyorum. Selfie hiçbir şekilde kabul etmiyor. iOS ve Android'in hepsini denedim, olmuyor. Bu konuda sorunu çözen oldu mu? Bazıları iki hesap ile oynuyor, Faceit'te ben bir hesap bile açamıyorum.
+------------------------------------------------------------
+
+[104] Faceit Hesabım Haksız Yere Ghosting Suçlamasıyla Banlandı Mağduriyetim Giderilmiyor
+Yazar: Mert
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-hesabim-haksiz-yere-ghosting-suclamasiyla-banlandi-magduriyetim-giderilmiyor
+Rating: None
+İçerik: Faceit hesabım (https://www.faceit.com/tr/players/Black_maskk), 29.07.25 tarihinde “ghosting” gerekçesiyle haksız ve sebepsiz bir şekilde banlandı. Hiçbir şekilde “ghosting” yapmadım ve bu suçu işlediğime dair bana herhangi bir kanıt iletilmedi. Yasaklanmam, oyun sırasında toksik davranan bir takım...
+------------------------------------------------------------
+
+[105] Faceit Premium Kullanıcılarının Güncelleme Sonrası Giriş Sorunu
+Yazar: Anıl
+Tarih: None
+Sentiment: negative
+URL: https://www.sikayetvar.com/faceit/faceit-premium-kullanicilarinin-guncelleme-sonrasi-giris-sorunu
+Rating: None
+İçerik: Steam CS2'ye güncelleme geleli 1 saat oldu. Faceit hâlâ girişleri kapalı. İki hesabım var ve ikisinde de Premium üyelik bulunuyor. İki saati geçti, Faceit girişlerinin açılmasını bekliyorum. Steam'e güncelleme geldikten sonra oyuna girişler açıldı, ancak sizde hâlâ kapalı. Kullanıcılar olarak güncel...
+------------------------------------------------------------
+

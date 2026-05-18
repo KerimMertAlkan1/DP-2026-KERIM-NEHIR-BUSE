@@ -25,7 +25,6 @@ Bu platform, kullanıcıların online alışveriş yapmadan önce sitelerin güv
 
 ### Backend API
 - RESTful API mimarisi
-- MongoDB veritabanı entegrasyonu
 - Web scraping ile şikayet verisi toplama
 - Sentiment analizi motoru
 

@@ -7,6 +7,21 @@ import { apiService } from '../../services/api'
 import { getRiskLevel, SENTIMENT_COLORS, hexToRgba } from '../../utils/constants'
 import './SiteDetail.css'
 
+const AnimatedNumber = ({ value }) => {
+  const [display, setDisplay] = useState(0)
+  useEffect(() => {
+    let start = 0
+    const step = Math.ceil(value / 20)
+    const t = setInterval(() => {
+      start += step
+      if (start >= value) { setDisplay(value); clearInterval(t) }
+      else setDisplay(start)
+    }, 40)
+    return () => clearInterval(t)
+  }, [value])
+  return <span>{display}</span>
+}
+
 const SiteDetail = () => {
   const { domain } = useParams()
   const navigate = useNavigate()
@@ -15,20 +30,15 @@ const SiteDetail = () => {
   const [error, setError] = useState('')
   const [isAnalyzing, setIsAnalyzing] = useState(false)
 
-  useEffect(() => {
-    loadSiteInfo()
-  }, [domain])
+  useEffect(() => { loadSiteInfo() }, [domain])
 
   const loadSiteInfo = async () => {
     try {
-      setIsLoading(true)
-      setError('')
-      const decodedDomain = decodeURIComponent(domain)
-      const info = await apiService.getSiteInfo(decodedDomain)
+      setIsLoading(true); setError('')
+      const info = await apiService.getSiteInfo(decodeURIComponent(domain))
       setSiteInfo(info)
     } catch (err) {
       setError(err.message || 'Site bilgileri yüklenirken bir hata oluştu')
-      console.error('Site bilgisi yükleme hatası:', err)
     } finally {
       setIsLoading(false)
     }
@@ -36,21 +46,10 @@ const SiteDetail = () => {
 
   const handleReanalyze = async () => {
     if (!siteInfo) return
-
-    setIsAnalyzing(true)
-    setError('')
-
+    setIsAnalyzing(true); setError('')
     try {
-      const url = `https://${siteInfo.domain}`
-      const result = await apiService.analyzeSite(url)
-      
-      if (result.error) {
-        setError(result.error)
-        setIsAnalyzing(false)
-        return
-      }
-
-      // Yeniden analiz başarılı, sayfayı yenile
+      const result = await apiService.analyzeSite(`https://${siteInfo.domain}`)
+      if (result.error) { setError(result.error); setIsAnalyzing(false); return }
       await loadSiteInfo()
       setIsAnalyzing(false)
     } catch (err) {
@@ -76,20 +75,18 @@ const SiteDetail = () => {
       <div className="site-detail">
         <div className="container">
           <div className="site-detail-error">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-              <circle cx="12" cy="12" r="10"/>
-              <line x1="12" y1="8" x2="12" y2="12"/>
-              <line x1="12" y1="16" x2="12.01" y2="16"/>
-            </svg>
-            <h2>Hata</h2>
+            <div className="error-icon-wrap">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                <circle cx="12" cy="12" r="10"/>
+                <line x1="12" y1="8" x2="12" y2="12"/>
+                <line x1="12" y1="16" x2="12.01" y2="16"/>
+              </svg>
+            </div>
+            <h2>Bir Hata Oluştu</h2>
             <p>{error}</p>
             <div className="error-actions">
-              <Link to="/" className="button-primary">
-                Ana Sayfaya Dön
-              </Link>
-              <button onClick={loadSiteInfo} className="button-secondary">
-                Tekrar Dene
-              </button>
+              <Link to="/" className="button-primary">Ana Sayfaya Dön</Link>
+              <button onClick={loadSiteInfo} className="button-secondary">Tekrar Dene</button>
             </div>
           </div>
         </div>
@@ -97,229 +94,169 @@ const SiteDetail = () => {
     )
   }
 
-  if (!siteInfo) {
-    return null
-  }
+  if (!siteInfo) return null
 
   const riskLevel = getRiskLevel(siteInfo.risk_score || 0)
-  const statistics = siteInfo.statistics || {
-    total: 0,
-    negative: 0,
-    positive: 0,
-    neutral: 0,
-    resolved: 0,
-    unresolved: 0
+  const statistics = siteInfo.statistics || { total: 0, negative: 0, positive: 0, neutral: 0, resolved: 0, unresolved: 0 }
+
+  const formatDate = (d) => {
+    if (!d) return 'Henüz analiz edilmedi'
+    return new Intl.DateTimeFormat('tr-TR', { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' }).format(new Date(d))
   }
 
-  const formatDate = (dateString) => {
-    if (!dateString) return 'Henüz analiz edilmedi'
-    const date = new Date(dateString)
-    return new Intl.DateTimeFormat('tr-TR', {
-      year: 'numeric',
-      month: 'long',
-      day: 'numeric',
-      hour: '2-digit',
-      minute: '2-digit'
-    }).format(date)
-  }
+  const statCards = [
+    { label: 'Toplam Şikayet', value: statistics.total, icon: '📋', color: '#a78bfa', bg: hexToRgba('#a78bfa', 0.1) },
+    { label: 'Negatif',        value: statistics.negative, icon: '👎', color: SENTIMENT_COLORS.negative, bg: hexToRgba(SENTIMENT_COLORS.negative, 0.1) },
+    { label: 'Pozitif',        value: statistics.positive, icon: '👍', color: SENTIMENT_COLORS.positive, bg: hexToRgba(SENTIMENT_COLORS.positive, 0.1) },
+    { label: 'Nötr',           value: statistics.neutral,  icon: '➖', color: SENTIMENT_COLORS.neutral,  bg: hexToRgba(SENTIMENT_COLORS.neutral, 0.1)  },
+    { label: 'Çözüldü',        value: statistics.resolved || 0,   icon: '✅', color: '#22c55e', bg: hexToRgba('#22c55e', 0.1) },
+    { label: 'Çözülmedi',      value: statistics.unresolved || 0, icon: '❌', color: '#ef4444', bg: hexToRgba('#ef4444', 0.1) },
+  ]
 
   return (
     <div className="site-detail">
       <div className="container">
-        <Link to="/" className="back-button">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-            <polyline points="15 18 9 12 15 6"/>
-          </svg>
-          <span>Ana Sayfaya Dön</span>
+        {/* Back */}
+        <Link to="/sites" className="back-button">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polyline points="15 18 9 12 15 6"/></svg>
+          <span>Sitelere Dön</span>
         </Link>
 
-        {/* Site Header */}
-        <div className="site-header">
-          <div className="site-header-content">
-            <div className="site-header-info">
-              <h1 className="site-name">{siteInfo.site_name || siteInfo.domain}</h1>
-              <p className="site-domain">{siteInfo.domain}</p>
+        {/* ── Hero header ── */}
+        <div className="sd-hero">
+          <div className="sd-hero-glow" style={{ background: riskLevel.color }}></div>
+
+          <div className="sd-hero-left">
+            <div className="sd-favicon">
+              <img
+                src={`https://www.google.com/s2/favicons?domain=${siteInfo.domain}&sz=48`}
+                alt=""
+                onError={e => { e.target.style.display='none'; e.target.nextSibling.style.display='block' }}
+              />
+              <span style={{ display:'none', fontSize:32 }}>🌐</span>
             </div>
-            <div className="site-header-actions">
-              <RiskBadge score={siteInfo.risk_score || 0} />
-              <button
-                onClick={handleReanalyze}
-                disabled={isAnalyzing}
-                className="reanalyze-button"
+            <div>
+              <h1 className="sd-title">{siteInfo.site_name || siteInfo.domain}</h1>
+              <a
+                href={`https://${siteInfo.domain}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="sd-domain-link"
               >
-                {isAnalyzing ? (
-                  <>
-                    <span className="button-spinner"></span>
-                    <span>Analiz Ediliyor...</span>
-                  </>
-                ) : (
-                  <>
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                      <polyline points="23 4 23 10 17 10"/>
-                      <polyline points="1 20 1 14 7 14"/>
-                      <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
-                    </svg>
-                    <span>Yeniden Analiz Et</span>
-                  </>
-                )}
-              </button>
+                {siteInfo.domain}
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" width="13" height="13">
+                  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                  <polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/>
+                </svg>
+              </a>
             </div>
           </div>
 
-          {error && (
-            <div className="error-message fade-in">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <circle cx="12" cy="12" r="10"/>
-                <line x1="12" y1="8" x2="12" y2="12"/>
-                <line x1="12" y1="16" x2="12.01" y2="16"/>
-              </svg>
-              <span>{error}</span>
-            </div>
-          )}
+          <div className="sd-hero-right">
+            <RiskBadge score={siteInfo.risk_score || 0} />
+            <button onClick={handleReanalyze} disabled={isAnalyzing} className="reanalyze-button">
+              {isAnalyzing ? (
+                <><span className="button-spinner"></span><span>Analiz Ediliyor...</span></>
+              ) : (
+                <>
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                    <polyline points="23 4 23 10 17 10"/>
+                    <polyline points="1 20 1 14 7 14"/>
+                    <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
+                  </svg>
+                  <span>Yeniden Analiz Et</span>
+                </>
+              )}
+            </button>
+          </div>
         </div>
 
-        {/* Statistics */}
-        <div className="statistics-section">
-          <div className="statistics-grid">
-            <div className="stat-card">
-              <div 
-                className="stat-icon" 
-                style={{ 
-                  '--stat-color': '#6366f1',
-                  '--stat-bg': hexToRgba('#6366f1', 0.1)
-                }}
-              >
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                  <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
-                  <circle cx="9" cy="7" r="4"/>
-                  <path d="M23 21v-2a4 4 0 0 0-3-3.87"/>
-                  <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
-                </svg>
-              </div>
-              <div className="stat-content">
-                <div className="stat-value">{statistics.total}</div>
-                <div className="stat-label">Toplam Şikayet</div>
+        {error && (
+          <div className="error-message fade-in">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+            <span>{error}</span>
+          </div>
+        )}
+
+        {/* ── Risk score big display ── */}
+        <div className="sd-risk-section">
+          <div className="sd-risk-card" style={{ '--risk-color': riskLevel.color }}>
+            <div className="sd-risk-left">
+              <div className="sd-risk-emoji">{riskLevel.emoji || '🔍'}</div>
+              <div>
+                <div className="sd-risk-label">Risk Seviyesi</div>
+                <div className="sd-risk-level" style={{ color: riskLevel.color }}>{riskLevel.label}</div>
               </div>
             </div>
-
-            <div className="stat-card">
-              <div 
-                className="stat-icon" 
-                style={{ 
-                  '--stat-color': SENTIMENT_COLORS.negative,
-                  '--stat-bg': hexToRgba(SENTIMENT_COLORS.negative, 0.1)
-                }}
-              >
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                  <path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3zm7-13h2.67A2.31 2.31 0 0 1 22 4v7a2.31 2.31 0 0 1-2.33 2H17"/>
-                </svg>
+            <div className="sd-risk-score-wrap">
+              <div className="sd-risk-score" style={{ color: riskLevel.color }}>
+                <AnimatedNumber value={siteInfo.risk_score || 0} />
               </div>
-              <div className="stat-content">
-                <div className="stat-value">{statistics.negative}</div>
-                <div className="stat-label">Negatif</div>
-              </div>
+              <div className="sd-risk-max">/100</div>
             </div>
-
-            <div className="stat-card">
-              <div 
-                className="stat-icon" 
-                style={{ 
-                  '--stat-color': SENTIMENT_COLORS.positive,
-                  '--stat-bg': hexToRgba(SENTIMENT_COLORS.positive, 0.1)
-                }}
-              >
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                  <path d="M14 9V5a3 3 0 0 0-6 0v4"/>
-                  <rect x="2" y="9" width="20" height="12" rx="2" ry="2"/>
-                  <circle cx="12" cy="15" r="1"/>
-                </svg>
-              </div>
-              <div className="stat-content">
-                <div className="stat-value">{statistics.positive}</div>
-                <div className="stat-label">Pozitif</div>
-              </div>
-            </div>
-
-            <div className="stat-card">
-              <div 
-                className="stat-icon" 
-                style={{ 
-                  '--stat-color': SENTIMENT_COLORS.neutral,
-                  '--stat-bg': hexToRgba(SENTIMENT_COLORS.neutral, 0.1)
-                }}
-              >
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                  <line x1="12" y1="5" x2="12" y2="19"/>
-                  <line x1="5" y1="12" x2="19" y2="12"/>
-                </svg>
-              </div>
-              <div className="stat-content">
-                <div className="stat-value">{statistics.neutral}</div>
-                <div className="stat-label">Nötr</div>
-              </div>
-            </div>
-
-            <div className="stat-card">
-              <div 
-                className="stat-icon" 
-                style={{ 
-                  '--stat-color': '#10b981',
-                  '--stat-bg': hexToRgba('#10b981', 0.1)
-                }}
-              >
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                  <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/>
-                  <polyline points="22 4 12 14.01 9 11.01"/>
-                </svg>
-              </div>
-              <div className="stat-content">
-                <div className="stat-value">{statistics.resolved || 0}</div>
-                <div className="stat-label">Çözüldü</div>
-              </div>
-            </div>
-
-            <div className="stat-card">
-              <div 
-                className="stat-icon" 
-                style={{ 
-                  '--stat-color': '#ef4444',
-                  '--stat-bg': hexToRgba('#ef4444', 0.1)
-                }}
-              >
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                  <circle cx="12" cy="12" r="10"/>
-                  <line x1="12" y1="8" x2="12" y2="12"/>
-                  <line x1="12" y1="16" x2="12.01" y2="16"/>
-                </svg>
-              </div>
-              <div className="stat-content">
-                <div className="stat-value">{statistics.unresolved || 0}</div>
-                <div className="stat-label">Çözülmedi</div>
+            <div className="sd-risk-bar-wrap">
+              <div className="sd-risk-bar-track">
+                <div
+                  className="sd-risk-bar-fill"
+                  style={{ width: `${siteInfo.risk_score || 0}%`, background: `linear-gradient(90deg, ${riskLevel.color}aa, ${riskLevel.color})` }}
+                ></div>
               </div>
             </div>
           </div>
         </div>
 
-        {/* Meta Information */}
-        <div className="meta-section">
-          <div className="meta-item">
-            <span className="meta-label">Son Analiz:</span>
-            <span className="meta-value">{formatDate(siteInfo.last_scanned_date)}</span>
+        {/* ── Stat cards ── */}
+        <div className="sd-stats-grid">
+          {statCards.map((s, i) => (
+            <div
+              key={i}
+              className="sd-stat-card"
+              style={{
+                '--stat-color': s.color,
+                '--stat-bg': s.bg,
+                animationDelay: `${i * 0.07}s`
+              }}
+            >
+              <div className="sd-stat-icon">{s.icon}</div>
+              <div className="sd-stat-body">
+                <div className="sd-stat-value" style={{ color: s.color }}>
+                  <AnimatedNumber value={s.value} />
+                </div>
+                <div className="sd-stat-label">{s.label}</div>
+              </div>
+              <div className="sd-stat-glow"></div>
+            </div>
+          ))}
+        </div>
+
+        {/* ── Meta dates ── */}
+        <div className="sd-meta-section">
+          <div className="sd-meta-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" width="16" height="16">
+              <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+              <line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>
+            </svg>
+            <div>
+              <span className="sd-meta-label">Son Analiz</span>
+              <span className="sd-meta-value">{formatDate(siteInfo.last_scanned_date)}</span>
+            </div>
           </div>
           {siteInfo.created_date && (
-            <div className="meta-item">
-              <span className="meta-label">İlk Analiz:</span>
-              <span className="meta-value">{formatDate(siteInfo.created_date)}</span>
+            <div className="sd-meta-item">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" width="16" height="16">
+                <circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>
+              </svg>
+              <div>
+                <span className="sd-meta-label">İlk Analiz</span>
+                <span className="sd-meta-value">{formatDate(siteInfo.created_date)}</span>
+              </div>
             </div>
           )}
         </div>
 
-        {/* Complaints */}
-        <div className="complaints-section">
-          <ComplaintList 
-            complaints={siteInfo.complaints || []} 
-            isLoading={isAnalyzing}
-          />
+        {/* ── Complaints ── */}
+        <div className="sd-complaints-section">
+          <ComplaintList complaints={siteInfo.complaints || []} isLoading={isAnalyzing} />
         </div>
       </div>
     </div>
@@ -327,4 +264,3 @@ const SiteDetail = () => {
 }
 
 export default SiteDetail
-
